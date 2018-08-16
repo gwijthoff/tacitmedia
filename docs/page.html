@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html ⚡ lang="en">
+  <head>
+  <script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+  <title>Global Science Fiction</title>
+  <meta name="description" content="">
+
+  <link rel="canonical" href="https://gwijthoff.github.io/tacitmedia//tacitmedia/page.html">
+  <link rel="alternate" type="application/rss+xml" title="Global Science Fiction" href="https://gwijthoff.github.io/tacitmedia//tacitmedia/feed.xml">
+
+  <script type="application/ld+json">
+  
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://gwijthoff.github.io/tacitmedia//tacitmedia/page.html",
+  "headline": "Global Science Fiction",
+  "datePublished": "2018-08-15T23:42:52-04:00",
+  "dateModified": "2018-08-15T23:42:52-04:00",
+  "description": "",
+  "author": {
+    "@type": "Person",
+    "name": "Grant Wythoff"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Global Science Fiction",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gwijthoff.github.io/tacitmedia//tacitmedia",
+      "width": 60,
+      "height": 60
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://gwijthoff.github.io/tacitmedia//tacitmedia",
+    "height": 60,
+    "width": 60
+  }
+}
+
+  </script>
+
+  <style amp-custom>
+  
+  /* Import ET Book styles
+   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
+@font-face {
+  font-family: "et-book";
+  src: url("/tacitmedia/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+  src: url("/tacitmedia/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("/tacitmedia/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("/tacitmedia/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("/tacitmedia/assets/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "et-book";
+  src: url("/tacitmedia/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
+  src: url("/tacitmedia/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("/tacitmedia/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("/tacitmedia/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("/tacitmedia/assets/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: "et-book";
+  src: url("/tacitmedia/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
+  src: url("/tacitmedia/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("/tacitmedia/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("/tacitmedia/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("/tacitmedia/assets/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: "et-book-roman-old-style";
+  src: url("/tacitmedia/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot");
+  src: url("/tacitmedia/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix") format("embedded-opentype"), url("/tacitmedia/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"), url("/tacitmedia/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"), url("/tacitmedia/assets/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+/* Tufte CSS styles */
+html {
+  font-size: 15px; }
+
+body {
+  width: 87.5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 12.5%;
+  font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+  max-width: 1400px;
+  counter-reset: sidenote-counter; }
+
+h1 {
+  font-weight: 400;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  font-size: 3.2rem;
+  line-height: 1; }
+
+h2 {
+  font-style: italic;
+  font-weight: 400;
+  margin-top: 2.1rem;
+  margin-bottom: 0;
+  font-size: 2.2rem;
+  line-height: 1; }
+
+h3 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.7rem;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  line-height: 1; }
+
+p.subtitle {
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1; }
+
+.numeral {
+  font-family: et-book-roman-old-style; }
+
+.danger {
+  color: red; }
+
+article {
+  position: relative;
+  padding: 5rem 0rem; }
+
+section {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+p, ol, ul, .pagination a, .pagination em, table {
+  font-size: 1.4rem; }
+
+p {
+  line-height: 2rem;
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  padding-right: 0;
+  vertical-align: baseline; }
+
+/* Chapter Epigraphs */
+div.epigraph {
+  margin: 5em 0; }
+
+div.epigraph > blockquote {
+  margin-top: 3em;
+  margin-bottom: 3em; }
+
+div.epigraph > blockquote, div.epigraph > blockquote > p {
+  font-style: italic; }
+
+div.epigraph > blockquote > footer {
+  font-style: normal; }
+
+div.epigraph > blockquote > footer > cite {
+  font-style: italic; }
+
+/* end chapter epigraphs styles */
+blockquote {
+  font-size: 1.4rem; }
+
+blockquote p {
+  width: 50%; }
+
+blockquote .footer {
+  width: 50%;
+  font-size: 1.1rem;
+  text-align: right; }
+
+ol, ul {
+  width: 45%;
+  -webkit-padding-start: 5%;
+  -webkit-padding-end: 5%; }
+
+li {
+  padding: 0.5rem 0; }
+
+figure {
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  max-width: 55%;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  margin: 0 0 3em 0; }
+
+figcaption {
+  float: right;
+  clear: right;
+  margin-right: -48%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  vertical-align: baseline;
+  position: relative;
+  max-width: 40%; }
+
+figure.fullwidth figcaption {
+  margin-right: 24%; }
+
+/* Links: replicate underline that clears descenders */
+a:link, a:visited {
+  color: inherit; }
+
+a:link {
+  text-decoration: none;
+  background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+  background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+  -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+  background-position: 0% 93%, 100% 93%, 0% 93%; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  a:link {
+    background-position-y: 87%, 87%, 87%; } }
+a:link::selection {
+  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+  background: #b4d5fe; }
+
+a:link::-moz-selection {
+  text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
+  background: #b4d5fe; }
+
+/* Sidenotes, margin notes, figures, captions */
+img {
+  max-width: 100%; }
+
+.sidenote, .marginnote {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+  vertical-align: baseline;
+  position: relative; }
+
+.table-caption {
+  float: right;
+  clear: right;
+  margin-right: -60%;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 1.0rem;
+  line-height: 1.6; }
+
+.sidenote-number {
+  counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before {
+  content: counter(sidenote-counter) " ";
+  font-family: et-book-roman-old-style;
+  position: relative;
+  vertical-align: baseline; }
+
+.sidenote-number:after {
+  content: counter(sidenote-counter);
+  font-size: 1rem;
+  top: -0.5rem;
+  left: 0.1rem; }
+
+.sidenote:before {
+  content: counter(sidenote-counter) " ";
+  top: -0.5rem; }
+
+p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.booktabs-wrapper {
+  width: 55%; }
+
+div.fullwidth, table.fullwidth {
+  width: 100%; }
+
+div.table-wrapper {
+  overflow-x: auto;
+  font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; }
+
+@media screen and (max-width: 760px) {
+  p, h1, h2, h3, footer {
+    width: 90%; }
+
+  pre.code {
+    width: 87.5%; }
+
+  ul {
+    width: 85%; }
+
+  figure {
+    max-width: 90%; }
+
+  figcaption, figure.fullwidth figcaption {
+    margin-right: 0%;
+    max-width: none; }
+
+  blockquote p, blockquote .footer {
+    width: 90%; } }
+.sans {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  letter-spacing: .03em; }
+
+.code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6; }
+
+h1 .code, h2 .code, h3 .code {
+  font-size: 0.80em; }
+
+.marginnote .code, .sidenote .code {
+  font-size: 1rem; }
+
+pre.code {
+  width: 52.5%;
+  padding-left: 2.5%;
+  overflow-x: auto; }
+
+.fullwidth {
+  max-width: 90%;
+  clear: both; }
+
+span.newthought {
+  font-variant: small-caps;
+  font-size: 1.2em; }
+
+.margin-toggle {
+  display: none; }
+
+.sidenote-number {
+  display: inline; }
+
+.margin-toggle:not(.sidenote-number) {
+  display: none; }
+
+@media (max-width: 760px) {
+  .margin-toggle:not(.sidenote-number) {
+    display: none; }
+
+  .sidenote, .marginnote {
+    display: none; }
+
+  .margin-toggle:checked + .sidenote,
+  .margin-toggle:checked + .marginnote {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative; }
+
+  label {
+    cursor: pointer; }
+
+  pre.code {
+    width: 90%;
+    padding: 0; }
+
+  .table-caption {
+    display: block;
+    float: right;
+    clear: both;
+    width: 98%;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 1%;
+    margin-right: 1%;
+    vertical-align: baseline;
+    position: relative; }
+
+  div.table-wrapper, table, table.booktabs {
+    width: 85%; }
+
+  div.table-wrapper {
+    border-right: 1px solid #efefef; }
+
+  img {
+    width: 100%; } }
+main {
+  margin-top: 20px; }
+
+amp-img {
+  background-color: grey; }
+
+article {
+  padding: 2.5rem 0; }
+
+header {
+  margin-top: 20px; }
+
+.post-meta {
+  margin-top: 10px; }
+
+pre {
+  width: 52.5%;
+  padding-left: 2.5%;
+  overflow-x: auto; }
+
+@media (max-width: 760px) {
+  pre {
+    width: 90%;
+    padding: 0; } }
+code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 1.125rem;
+  line-height: 1.6; }
+
+  </style>
+
+
+
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+</head>
+
+  <body>
+    <header>
+  <div class="page-links">
+    <a class="page-link" href="/tacitmedia/">Home</a>
+    • <a href="#schedule">Schedule</a>
+    
+      
+    
+      
+    
+    • <a href="https://github.com/gwijthoff/globalSF/">Github Repo</a>
+    • <a href="globalSF_syllabus.pdf">PDF</a>
+  </div>
+</header>
+
+
+    <article class="post">
+
+  <div class="post-meta">
+    <h1 class="post-title"></h1>
+  </div>
+
+  <section>
+    <article class="post">
+
+  <section>
+    <h1 id="tacit-media-and-digital-culture-">Tacit Media and Digital Culture 📱</h1>
+
+<h2 id="vstud-502">VSTUD 502</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Fall 2018
+Mon 2:30 - 5:30
+Location: Burrowes 132
+
+Dr. Grant Wythoff &lt;gxw63@psu.edu&gt;
+Office hours by appointment
+317 Pattee Library
+</code></pre>
+</div>
+
+<p><a href="#schedule"><strong>Skip to the schedule…</strong></a></p>
+
+<p style="text-align: center">❧</p>
+
+<h1 id="description">Description</h1>
+
+<!--
+This seminar will require flexibility in your reading: we will be moving from French poststructuralism to digital media theory to popular writing.
+
+Aim of the course for me personally: to be able to articulate why media theory matters in the public sphere
+
+We'll move from more classic media theory concerns (apparatus, technological determinism) with updates on how those terms are evolving now, and then we'll proceed into more emerging areas of research (habit, algorithms, privacy).
+-->
+
+<p>The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a digitally networked world has changed something about the way we understand ourselves as both individuals and members of a public. In a moment when digital media are complicating some of our foundational assumptions about everything from democratic consensus to the nature of privacy, we need to take stock of the kinds of humanistic research that can put these developments into perspective.</p>
+
+<p>This seminar will introduce a range of frameworks useful for thinking through the history, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of the public, selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies to guide us through these more contemporary issues. Concepts from our readings will be operationalized with weekly exercises that will include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.</p>
+
+<p>Guiding us through these wide-ranging subjects will be our structuring theme: “tacit media,” or the background, habitual operation of our networked devices that we take for granted and that take us for granted in turn. How can something celebrated by prior media theorists: boredom and distraction, what Susan Sontag called “embodied intelligence” and Walter Benjamin referred to as “tactile appropriation”––how can these states continue to be celebrated in our current media and political environment?</p>
+
+<h1 id="workshop-series-data-privacy-democracy-and-the-humanities">Workshop Series: Data Privacy, Democracy, and The Humanities</h1>
+
+<p>As part of our seminar, we will lead three workshops open to the undergraduate community on privacy, surveillance, and social media practices. Each workshop will pair hands-on exercises using students’ own devices with concepts from our seminar readings. Undergrads will be given new perspectives on and tactics for issues that are vital to the health of the networked public sphere today.</p>
+
+<p>Each event will involve 1) a brief presentation on the issue, 2) a visiting technologist from the Philadelphia area, and 3) a hands-on lesson. Together, we will determine together the way to best teach the importance of each issue to undergrads.</p>
+
+<!--
+Issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to examine what the humanities instead offers fraught conversations on digital culture today.
+-->
+
+<ul>
+  <li><strong>November 5:</strong> Jessa Lingel, University of Pennsylvania</li>
+  <li>Rachel Greenstadt, Drexel University</li>
+  <li>Hannah Sassaman, Media Mobilizing Project and 2017 Soros Justice Fellow</li>
+</ul>
+
+<h1 id="a-namescheduleaschedule"><a name="schedule"></a>Schedule</h1>
+
+<hr />
+
+<!--
+## even weeks: digital media theory
+
+Even-numbered weeks will be devoted to recent scholarship on digital media and culture, with an emphasis on emerging approaches to questions of selfhood (privacy, habit, boredom, intimacy), inequality (biased algorithms, digital divides, information illiteracy), and the public (bots, fake news, filter bubbles, revolution). Altogether, these weeks will provide students with a sense of the "stack" of technologies and policies making up the networked world, from code to interface to device to infrastructure to power.
+
+## odd weeks: paradigms of media studies
+
+Odd-numbered weeks will be devoted to influential concepts from the history of media studies, including theories of cinema spectatorship, technics, and broadcast media that take on new value in understanding and negotiating the ways we live with technology today. Special emphasis will be given to visual media. While the boundaries of media studies are porous, as much as possible we will try to isolate the dominant paradigms.
+
+
+## exercises and tactics
+
+These exercises, to be paired with particular readings, will introduce everyday tactics for, among other things, regaining authorship over the portraits of our lives being assembled by data brokers, and protecting against surveillance by government agencies who actively monitor the search results and social media activity of immigrants and citizens who speak with immigrants.
+
+- Conduct self-surveillance using browser plugins like Data Selfie [shutdown notice](https://dataselfie.it/#/shutdown), ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
+- Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have willingly left behind: emails, Facebook likes, activity trackers, etc. We will assemble a portrait of this day using only our digitally-distributed memories.
+- Request your data profiles from Facebook and Twitter using PersonalData.io, and from data brokers using Acxiom's "Consumer Data Information" form.
+- conduct a close reading of the privacy policy on three websites, online stores, or services you have used recently (overstock, comcast, etc)
+- technique: record a video of yourself making coffee/tea, or something else you do/make every day. 60 sec max. Compare techniques in class.
+- [People You May Know Inspector](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) by Gizmodo's Special Projects Desk, and the [history of Facebook's efforts to bring the project down](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111)
+- [Panopticlick](https://panopticlick.eff.org/) can help you learn more about browser fingerprinting and see which properties of your own browser are used to fingerprint.
+- [Lightbeam](https://www.mozilla.org/en-US/lightbeam/) (Firefox) allows you to visualize the tracking that occurs on each page you visit.
+- Ghostery and HTTPS Everywhere
+- More advanced users should consider the EFF’s Privacy Badger which improves upon blacklist-based tools by blocking domains based on their actions.
+-->
+
+<h1 id="week-1--aug-20--intro">Week 1 | Aug 20 | intro</h1>
+
+<ul>
+  <li>Sara M. Watson, <a href="https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php">“Toward a Constructive Technology Criticism,”</a> Tow Center for Digital Journalism (October 2016)</li>
+  <li>Primo Levi, “The Mirror Maker” (1985)</li>
+  <li>a media theory piece?</li>
+  <li>Resources:
+    <ul>
+      <li><a href="https://logicmag.io/"><em>Logic</em></a> magazine</li>
+      <li><a href="http://reallifemag.com/"><em>Real Life</em></a> magazine</li>
+      <li><a href="https://datasociety.net/">Data and Society</a> research center in NYC</li>
+      <li><a href="https://ainowinstitute.org/">AI Now Institute</a> research center at NYU</li>
+      <li><a href="https://www.opentech.fund/">Open Technology Fund</a> in DC, supporting global Internet freedom projects</li>
+      <li><a href="https://mydata.org">My Data</a> international org with local hubs that “empower individuals with their personal data”</li>
+      <li><a href="https://techworkerscoalition.org/">Tech Workers Coalition</a>, based in SF and Seattle</li>
+      <li><a href="https://tacticaltech.org/">Tactical Technology Collective</a>, Berlin-based nonprofit. See esp. “Our Data Our Selves” project</li>
+      <li><a href="http://datatransparencylab.org/">Data Transparency Lab</a>, in Barcelona, working to “define new standards and guidelines for how our personal data is owned, accessed and used”</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="week-2--aug-27--keywords-1">Week 2 | Aug 27 | keywords 1</h1>
+
+<p><strong>technology ◦ technics ◦ media</strong></p>
+
+<p>Eric Schatzberg, “Technik Comes to America: Changing Meanings of Technology before 1930,” <em>Technology and Culture</em> 47, no. 3 (2006): 486–512.</p>
+
+<p>John Guillory, “Genesis of the Media Concept,” <em>Critical Inquiry</em> 36, no. 2 (January 1, 2010): 321–62.</p>
+
+<p>John Durham Peters, “Understanding Media,” in <em>The Marvelous Clouds: Toward a Philosophy of Elemental Media</em> (University of Chicago Press, 2015), 13-52.</p>
+
+<p>Jacob Bigelow, <a href="https://archive.org/details/elementsoftechno00jaco"><em>Elements of Technology</em></a> (1829)</p>
+
+<h1 id="week-3--sep-10--keywords-2">Week 3 | Sep 10 | keywords 2</h1>
+
+<p><strong>data ◦ information ◦ digital</strong></p>
+
+<p>John Haugeland, <a href="https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Haugeland_1981_Analog_and_Analog.pdf">“Analog and Analog,”</a> <em>Philosophical Topics</em> 12, no. 1 (Spring 1981): 213–25.</p>
+
+<p>Luciano Floridi, “Against Digital Ontology,” <em>Synthese</em> 168, no. 1 (2009): 151–78.</p>
+
+<p>Ralph W. Gerard, <a href="https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf">“Some of the Problems Concerning Digital Notions in the Central Nervous System,”</a> in <em>Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,</em> ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.</p>
+
+<p>Jonathan Gray, Carolin Gerlitz, Liliana Bounegru, <a href="http://journals.sagepub.com/doi/full/10.1177/2053951718786316">“Data Infrastructure Literacy,”</a> <em>Big Data and Society</em> 5, no. 2 (July 2018)</p>
+
+<p>John Durham Peters, “Information: Notes Toward a Critical History”</p>
+
+<p>Geoffrey Nunberg, “Farewell to the Information Age”</p>
+
+<p>Daniel Rosenberg, “Data Before the Fact”</p>
+
+<p>Kittler, “There is no Software”</p>
+
+<h1 id="week-x--infrastructure-and-organizing">Week x | infrastructure and organizing</h1>
+
+<p>Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” <em>Screen</em> 20, no. 3–4 (December 1979 [1932]): 24–28.</p>
+
+<p>Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” <em>New Left Review</em> I 64 (December 1970): 13-36.</p>
+
+<p>Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” <em>SubStance</em> 5, no. 15 (1976): 111–16.</p>
+
+<p>Zeynep Tufekci, <em>Twitter and Tear Gas: The Power and Fragility of Networked Protest</em> (2017)</p>
+
+<h1 id="week-x--apparatus--stack">Week x | apparatus / stack</h1>
+
+<!--
+On “paranoid reading” (psychoanalytic film theory) and “reparative reading” (newer infrastructure studies??) in Sedgwick’s terms. See also Heather Love on both terms. Related concepts of hermeneutics of suspicion, post-critique, surface reading.
+-->
+
+<p>Frank Kessler, “Notes on <em>Dispositif</em>” (2007)</p>
+
+<p>Jean-Louis Baudry, “Ideological Effects of the Basic Cinematographic Apparatus,” in Philip Rosen, ed. <em>Narrative, Apparatus, Ideology: A Film Theory Reader</em> (1986)</p>
+
+<p>Baudry, “The Apparatus: Metapsychological Approaches to the Impression of Reality in Cinema,” in Ibid.</p>
+
+<p>Jean-Louis Comolli, “Technique and Ideology: Camera, Perspective, Depth of Field,” in Ibid.</p>
+
+<p>Benjamin H. Bratton, <em>The Stack: On Software and Sovereignty</em> (2015)</p>
+
+<p>connection at erdaiip mountain?</p>
+
+<h1 id="week-x--determinism-and-affordances">Week x | determinism and affordances</h1>
+
+<p>John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” <em>Representations</em> 140 (Fall 2017): 10–26.</p>
+
+<p>Matthew Fuller, “The Forbidden Pleasures of Media Determining,” in <em>Media After Kittler,</em> ed. Eleni Ikoniadou and Scott Wilson (Rowman &amp; Littlefield, 2015), 95–110.</p>
+
+<p>introduction to <em>The Social Construction of Technological Systems</em></p>
+
+<p>James J. Gibson, “The Theory of Affordances,” in <em>Perceiving, Acting, and Knowing,</em> ed. Robert Shaw and John Bransford (University of Michigan Press, 1977)</p>
+
+<p>Jenny L. Davis and James B. Chouinard, “Theorizing Affordances: From Request to Refuse,” <em>Bulletin of Science, Technology &amp; Society,</em> June 2017</p>
+
+<p>B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Action Possibilities: When Is an Affordance?,” <em>Sociology</em> 44, no. 3 (June 18, 2010): 415–33.</p>
+
+<p>Ian Hutchby, “Technologies, Texts and Affordances,” <em>Sociology</em> 35, no. 2 (May 1, 2001): 441–56.</p>
+
+<p>Ian Hutchby, “Affordances and the Analysis of Technologically Mediated Interaction: A Response to Brian Rappert,” <em>Sociology</em> 37, no. 3 (August 1, 2003): 581–89.</p>
+
+<p>Brian Rappert, “Technologies, Texts and Possibilities: A Reply to Hutchby,” <em>Sociology</em> 37, no. 3 (August 1, 2003): 565–80</p>
+
+<h1 id="week-x--habit-1">Week x | habit 1</h1>
+
+<p>Felix Ravaisson, <em>Of Habit,</em> trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009).</p>
+
+<p>Wendy Chun, <em>Updating to Remain the Same: Habitual New Media</em> (MIT Press: 2016).</p>
+
+<p>Matthew B. Crawford, <em>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</em> (Farrar, Straus and Giroux, 2016).</p>
+
+<h1 id="week-x--habit-2">Week x | habit 2</h1>
+
+<p>Taina Bucher, “Affective Landscapes: Everyday Encounters with Algorithms,” in <em>If…Then: Algorithmic Power and Politics</em> (2018), 93-117.</p>
+
+<p>Alexandra Schwartz, “<a href="https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death">Improving Ourselves to Death</a>,” <em>New Yorker,</em> Jan 15, 2008.</p>
+
+<p>Carl Cederström and André Spicer, <em>The Wellness Syndrome</em> (Polity, 2015).</p>
+
+<p>Svend Brinkmann, <em>Stand Firm: Resisting the Self-Improvement Craze,</em> (Polity, 2017).</p>
+
+<h1 id="week-x--algorithms-and-inequality">Week x | algorithms and inequality</h1>
+
+<p>Virginia Eubanks, <em>Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor</em> (2018)</p>
+
+<p>Safiya Umoja Noble, <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em> (2018)</p>
+
+<h1 id="week-x--silicon-valley">Week x | silicon valley</h1>
+
+<p>Fred Turner, <em>From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism</em> (University of Chicago Press, 2006)</p>
+
+<p>Claire L. Evans, <em>Broad Band: The Untold Story of the Women who Made the Internet</em></p>
+
+<!--
+Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Culture 6 (January 1, 1996): 44–72.
+
+Peter Ludlow, Crypto anarchy, cyberstates, and pirate utopias (2001)
+
+[previsions of the internet, two MIT volumes I own?]
+-->
+
+<h1 id="week-x--privacy">Week x | privacy</h1>
+
+<!--
+Does political discourse / public discourse require anonymity? To what degree?
+-->
+
+<p>Sarah E. Igo, <em>The Known Citizen: A History of Privacy in Modern America</em> (2018)</p>
+
+<p>Woodrow Hartzog, <em>Privacy’s Blueprint: The Battle to Control the Design of New Technologies</em> (2018)</p>
+
+<p>Jonathan Gray, <a href="http://krisis.eu/three-aspects-of-data-worlds/">“Three Aspects of Data Worlds,”</a> <em>Krisis: Journal for Contemporary Philosophy</em> (2018)</p>
+
+<p>Sarah Jeong, <a href="https://www.theatlantic.com/technology/archive/2016/04/credit-reporting-spying/480510/">“You Can’t Escape Data Surveillance In America”</a></p>
+
+<!--
+Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+-->
+
+<h1 id="week-x--the-public">Week x | the public</h1>
+
+<p>Michael Warner, <em>Publics and Counterpublics</em> (2002)</p>
+
+<p>Jürgen Habermas, <em>The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society</em> (1962/1989)</p>
+
+<p>Benedict Anderson, <em>Imagined Communities</em> (1983)</p>
+
+<!--
+John Dewey v. Walter Lippmann?
+-->
+
+<h1 id="week-x--technology-and-the-humanities">Week x | technology and the humanities</h1>
+
+<!--
+humanistic dystopianism…
+-->
+
+<p>Chad Wellmon, draft essay on history of technical and humanistic education</p>
+
+<p>Langdon Winner, <em>Autonomous Technology: Technics Out-of-Control as a Theme in Political Thought</em> (1977)</p>
+
+<p>Andrew Pilsch, <em>Transhumanism: Evolutionary Futurism and the Human Technologies of Utopia</em></p>
+
+<h1 id="week-x--technology-and-democracy">Week x | technology and democracy</h1>
+
+<p>tech feudalism and info economics…</p>
+
+<p>Nick Srncek, <em>Platform Capitalism</em></p>
+
+<p>Nick Dyer-Witheford, <em>Cyber-Proletariat: Global Labour in the Digital Vortex</em></p>
+
+<!--
+Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/
+-->
+
+<!--
+
+# democratic history/theory
+
+- Edward Luce, *The Retreat of Western Liberalism*
+- Robert Dahl, *On Democracy* (1998)
+- Steven Levitsky, Daniel Ziblatt, *How Democracies Die* (2018)
+
+# intimacy
+
+- Dominic Pettman book on robot love?
+- Lee Humphreys, *The Qualified Self* (2018) ???
+
+# facts / knowledge
+
+Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Technology, and Society 4, no. 0 (July 24, 2018): 423–43, https://doi.org/10.17351/ests2018.188.
+
+# boredom
+
+Pettman
+
+my DHQ essay?
+
+Benjamin artwork essay
+
+# Tactics
+
+James Williams, *Stand out of Our Light: Freedom and Resistance in the Attention Economy* (Cambridge UP, 2018) [open access]
+
+Jaron Lanier, *Ten Arguments for Deleting Your Social Media Accounts Right Now* (Henry Holt and Co., 2018)  [see also *Who Owns the Future* (2014)]
+
+# critical data studies
+
+http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/
+
+Paul Dourish, Edgar Gómez Cruz, “Datafication and data fiction: Narrating data and narrating with data” http://journals.sagepub.com/doi/full/10.1177/2053951718784083/
+
+# McLuhan
+
+Elena Lamberti on McLuhan's literary theory beginnings
+
+# others / misc
+
+Our Data Bodies project https://www.odbproject.org/
+
+James Bridle, *New Dark Age*
+
+Adam Greenfield, *Radical Technologies*
+
+Julia Angwin, *Dragnet Nation: A Quest for Privacy, Security, and Freedom in a World of Relentless Surveillance* (2015)
+
+Ed Finn, *What Algorithms Want: Imagination in the Age of Computing* (2017)
+
+Nicole Starosielski, *The Undersea Network* (2015)
+
+Siva Vaidhyanathan, *Antisocial Media: How Facebook Disconnects Us and Undermines Democracy* (2018)
+
+Tarleton Gillespie, *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media* (2018)
+
+Patricia Ticineto Clough, *The User Unconscious: On Affect, Media, and Measure* (essays, 2018)
+
+- Vilém Flusser, *Into the Universe of Technical Images* (2011)
+- Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (2006)
+- André Leroi-Gourhan, *Gesture and Speech* (1993 [1964])
+- Friedrich Kittler, *Gramophone, Film, Typewriter* (1999 [1986])
+- Miriam Hansen, *Babel and Babylon: Spectatorship in American Silent Film* (1994)
+- Hans Ulrich Gumbrecht and Karl Ludwig Pfeiffer, eds. *Materialities of Communication* (1994)
+- Lisa Gitelman, *Always Already New: Media History and the Data of Culture* (2006)
+- Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964)
+- Deleuze postscript on control societies? And a broader theme: how critical theory anticipates, as if SF, future tecchnosocial developments?
+
+-->
+
+<h1 id="acknowledgments">Acknowledgments</h1>
+
+<p>Thanks to … whose syllabi and pedagogy influenced the design and content of this course.</p>
+
+<!-- use `_md_to_pdf_header` then & pandoc -o tacitmedia_syllabus.pdf --template tacitmediasyl.latex index.md -->
+
+  </section>
+
+    <footer class="site-footer">
+   <section class="copyright">This syllabus is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> &bull; 2018</section>
+</footer>
+
+  </div>
+</article>
+  </section>
+
+</article>
+
+<footer class="site-footer">
+   <section class="copyright">This syllabus is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> &bull; 2018</section>
+</footer>
+
+  </body>
+</html>
