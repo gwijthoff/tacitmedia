@@ -1,0 +1,13 @@
+title: Global Science Fiction
+description: >
+baseurl: "/globalSF"
+url: "https://gwijthoff.github.io/globalSF/"
+paginate:	1 # The number of posts to show per page on your homepage
+name: "Grant Wythoff"
+markdown: kramdown
+permalink: none
+destination: docs
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
