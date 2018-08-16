@@ -5,7 +5,7 @@ title: Tacit Media and Digital Culture | Fall 2018
 
 # Tacit Media and Digital Culture 📱
 
-## VSTUD 502
+## Visual Studies 502
 
 ```
 Fall 2018
@@ -19,7 +19,7 @@ Office hours by appointment
 
 [**Skip to the schedule…**](#schedule)
 
-❧
+◦ ◦ ◦
 {: style="text-align: center"}
 
 Description
@@ -36,28 +36,33 @@ We'll move from more classic media theory concerns (apparatus, technological det
 
 The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a digitally networked world has changed something about the way we understand ourselves as both individuals and members of a public. In a moment when digital media are complicating some of our foundational assumptions about everything from democratic consensus to the nature of privacy, we need to take stock of the kinds of humanistic research that can put these developments into perspective.
 
-This seminar will introduce a range of frameworks useful for thinking through the history, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of the public, selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies to guide us through these more contemporary issues. Concepts from our readings will be operationalized with weekly exercises that will include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.
+This seminar will introduce a range of frameworks useful for thinking through the history, politics, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies to guide us through these more contemporary issues. Concepts from our readings will be operationalized with weekly exercises that include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.
 
-Guiding us through these wide-ranging subjects will be our structuring theme: "tacit media," or the background, habitual operation of our networked devices that we take for granted and that take us for granted in turn. How can something celebrated by prior media theorists: boredom and distraction, what Susan Sontag called "embodied intelligence" and Walter Benjamin referred to as "tactile appropriation"––how can these states continue to be celebrated in our current media and political environment?
+Guiding us through these wide-ranging subjects will be a structuring theme: "tacit media," or the background, habitual operation of our networked devices that we take for granted and that take us for granted in turn. How can boredom, distraction, and habit––once celebrated by media theorists as "embodied intelligence" (Susan Sontag) and "tactile appropriation" (Walter Benjamin)––continue to be tactical modes of engagement in our current media and political environment?
 
-Workshop Series: Data Privacy, Democracy, and The Humanities
+Workshop Series
 ======================
+
+## Data Privacy, Democracy, and The Humanities
 
 As part of our seminar, we will lead three workshops open to the undergraduate community on privacy, surveillance, and social media practices. Each workshop will pair hands-on exercises using students’ own devices with concepts from our seminar readings. Undergrads will be given new perspectives on and tactics for issues that are vital to the health of the networked public sphere today.
 
-Each event will involve 1) a brief presentation on the issue, 2) a visiting technologist from the Philadelphia area, and 3) a hands-on lesson. Together, we will determine together the way to best teach the importance of each issue to undergrads.
+Each event will involve 1) a brief presentation on the issue, 2) a visiting technologist from the Philadelphia area, and 3) a hands-on lesson. Together, we will determine together the way to best teach the importance of each issue to our undergraduate students.
 
 <!--
 Issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to examine what the humanities instead offers fraught conversations on digital culture today.
 -->
 
-- **November 5:** Jessa Lingel, University of Pennsylvania
-- Rachel Greenstadt, Drexel University
-- Hannah Sassaman, Media Mobilizing Project and 2017 Soros Justice Fellow
+- **November 5:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
+- [Rachel Greenstadt](http://drexel.edu/cci/contact/Faculty/Greenstadt-Rachel/), Privacy, Security, and Automation Laboratory, Drexel University
+- [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
 
 # <a name="schedule"></a>Schedule
 
-**********************
+All readings will be provided in PDF excerpts. <a style="color:red">Book titles in red</a> are recommended for you to purchase.
+
+◦ ◦ ◦
+{: style="text-align: center"}
 
 <!--
 ## even weeks: digital media theory
@@ -85,65 +90,61 @@ These exercises, to be paired with particular readings, will introduce everyday 
 - More advanced users should consider the EFF’s Privacy Badger which improves upon blacklist-based tools by blocking domains based on their actions.
 -->
 
-# Week 1 | Aug 20 | intro
+## wk 1 | Aug 20 | intro
 
-- Sara M. Watson, ["Toward a Constructive Technology Criticism,"](https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php) Tow Center for Digital Journalism (October 2016)
-- Primo Levi, "The Mirror Maker" (1985)
-- a media theory piece?
-- Resources:
-  - [*Logic*](https://logicmag.io/) magazine
-  - [*Real Life*](http://reallifemag.com/) magazine
-  - [Data and Society](https://datasociety.net/) research center in NYC
-  - [AI Now Institute](https://ainowinstitute.org/) research center at NYU
-  - [Open Technology Fund](https://www.opentech.fund/) in DC, supporting global Internet freedom projects
-  - [My Data](https://mydata.org) international org with local hubs that "empower individuals with their personal data"
-  - [Tech Workers Coalition](https://techworkerscoalition.org/), based in SF and Seattle
-  - [Tactical Technology Collective](https://tacticaltech.org/), Berlin-based nonprofit. See esp. "Our Data Our Selves" project
-  - [Data Transparency Lab](http://datatransparencylab.org/), in Barcelona, working to "define new standards and guidelines for how our personal data is owned, accessed and used"
+Sara M. Watson, "Toward a Constructive Technology Criticism," Tow Center for Digital Journalism (October 2016) [[html]](https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php) \| [[pdf]](readings/Watson_2016_Toward_a_Constructive_Technology_Criticism.pdf)
 
-# Week 2 | Aug 27 | keywords 1
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 2 | Aug 27 | keywords 1
+
+**data ◦ information**
+{: style="text-align: center"}
+
+Geoffrey Nunberg, “Farewell to the Information Age,” in *The Future of the Book,* ed. Geoffrey Nunberg (University of California Press, 1996), 103–83. [[pdf]](https://psu.instructure.com/files/93904940/download?download_frd=1)
+
+Daniel Rosenberg, “Data Before the Fact,” in *“Raw Data” Is an Oxymoron,* ed. Lisa Gitelman (MIT Press, 2013), 15–40. [[pdf]](https://psu.instructure.com/files/93905016/download?download_frd=1)
+
+John Durham Peters, “Information: Notes Toward a Critical History,” *Journal of Communication Inquiry* 12, no. 2 (July 1, 1988): 9–23. [[pdf]](https://psu.instructure.com/files/93905880/download?download_frd=1)
+
+Jonathan Gray, "Three Aspects of Data Worlds," *Krisis: Journal for Contemporary Philosophy* issue 1 (2018). [[online]](http://krisis.eu/three-aspects-of-data-worlds/)
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 3 | Sept 10 | habit 1
+
+Wendy Chun, <a style="color:red">*Updating to Remain the Same: Habitual New Media*</a> (MIT Press: 2016).
+
+Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009).
+
+Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016).
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 4 | Sept 17 | keywords 2
 
 **technology ◦ technics ◦ media**
+{: style="text-align: center"}
 
-Eric Schatzberg, “Technik Comes to America: Changing Meanings of Technology before 1930,” *Technology and Culture* 47, no. 3 (2006): 486–512.
+Eric Schatzberg, “Technik Comes to America: Changing Meanings of Technology before 1930,” *Technology and Culture* 47, no. 3 (2006): 486–512. [[pdf]](https://psu.instructure.com/files/93903501/download?download_frd=1)
 
-John Guillory, “Genesis of the Media Concept,” *Critical Inquiry* 36, no. 2 (January 1, 2010): 321–62.
+John Guillory, “Genesis of the Media Concept,” *Critical Inquiry* 36, no. 2 (January 1, 2010): 321–62. [[pdf]](https://psu.instructure.com/files/93903499/download?download_frd=1)
 
-John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2015), 13-52.
+Clapperton Chakanetsa Mavhunga, "Introduction," *What Do Science, Technology, and Innovation Mean from Africa?* (MIT Press, 2017). [[pdf]](https://psu.instructure.com/files/93905813/download?download_frd=1)
 
-Jacob Bigelow, [*Elements of Technology*](https://archive.org/details/elementsoftechno00jaco) (1829)
+Jacob Bigelow, *Elements of Technology: Taken Chiefly from a Course of Lectures Delivered at Cambridge on the Application of the Sciences to the Useful Arts* (Hilliard, Gray, Little, and Wilkins, 1829) [[online]](https://archive.org/details/elementsoftechno00jaco)
 
-# Week 3 | Sep 10 | keywords 2
+### further
 
-**data ◦ information ◦ digital**
+John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2015), 13-52. [[pdf]](https://psu.instructure.com/files/93903500/download?download_frd=1)
 
-John Haugeland, [“Analog and Analog,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
+◦ ◦ ◦
+{: style="text-align: center"}
 
-Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 151–78.
-
-Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
-
-Jonathan Gray, Carolin Gerlitz, Liliana Bounegru, ["Data Infrastructure Literacy,"](http://journals.sagepub.com/doi/full/10.1177/2053951718786316) *Big Data and Society* 5, no. 2 (July 2018)
-
-John Durham Peters, “Information: Notes Toward a Critical History”
-
-Geoffrey Nunberg, “Farewell to the Information Age”
-
-Daniel Rosenberg, “Data Before the Fact”
-
-Kittler, "There is no Software"
-
-# Week x | infrastructure and organizing
-
-Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28.
-
-Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36.
-
-Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16.
-
-Zeynep Tufekci, *Twitter and Tear Gas: The Power and Fragility of Networked Protest* (2017)
-
-# Week x | apparatus / stack
+## wk 5 | Sept 24 | apparatus ◦ stack
 
 <!--
 On “paranoid reading” (psychoanalytic film theory) and “reparative reading” (newer infrastructure studies??) in Sedgwick’s terms. See also Heather Love on both terms. Related concepts of hermeneutics of suspicion, post-critique, surface reading.
@@ -157,11 +158,42 @@ Baudry, "The Apparatus: Metapsychological Approaches to the Impression of Realit
 
 Jean-Louis Comolli, "Technique and Ideology: Camera, Perspective, Depth of Field," in Ibid.
 
-Benjamin H. Bratton, *The Stack: On Software and Sovereignty* (2015)
+Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015)
 
-connection at erdaiip mountain?
+Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200. [[pdf]](https://psu.instructure.com/files/93907231/download?download_frd=1)
 
-# Week x | determinism and affordances
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 6 | Oct 1 | keywords 3
+
+**digital ◦ analog ◦ hardware ◦ software**
+
+Ralph W. Gerard, “Some of the Problems Concerning Digital Notions in the Central Nervous System,” in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Diaphanes, 2016 [1950]), 171–202. [[pdf]](https://psu.instructure.com/files/93904437/download?download_frd=1)
+
+John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25. [[pdf]](https://psu.instructure.com/files/93904440/download?download_frd=1)
+
+Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 151–78. [[pdf]](https://psu.instructure.com/files/93904431/download?download_frd=1)
+
+Friedrich Kittler, “There Is No Software,” in *The Truth of the Technological World: Essays on the Genealogy of Presence* (Stanford University Press, 2013), 219–29. [[pdf]](https://psu.instructure.com/files/93905410/download?download_frd=1)
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 7 | Oct 8 | infrastructure ◦ organizing
+
+Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28.
+
+Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36.
+
+Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16.
+
+Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 8 | Oct 15 | determinism ◦ affordances
 
 John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” *Representations* 140 (Fall 2017): 10–26.
 
@@ -177,19 +209,16 @@ B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Actio
 
 Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (May 1, 2001): 441–56.
 
+### further
+
 Ian Hutchby, “Affordances and the Analysis of Technologically Mediated Interaction: A Response to Brian Rappert,” *Sociology* 37, no. 3 (August 1, 2003): 581–89.
 
 Brian Rappert, “Technologies, Texts and Possibilities: A Reply to Hutchby,” *Sociology* 37, no. 3 (August 1, 2003): 565–80
 
-# Week x | habit 1
+◦ ◦ ◦
+{: style="text-align: center"}
 
-Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009).
-
-Wendy Chun, *Updating to Remain the Same: Habitual New Media* (MIT Press: 2016).
-
-Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016).
-
-# Week x | habit 2
+## wk 9 | Oct 22 | habit 2
 
 Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
 
@@ -199,17 +228,11 @@ Carl Cederström and André Spicer, *The Wellness Syndrome* (Polity, 2015).
 
 Svend Brinkmann, *Stand Firm: Resisting the Self-Improvement Craze,* (Polity, 2017).
 
-# Week x | algorithms and inequality
+## wk 10 | Oct 29 | silicon valley
 
-Virginia Eubanks, *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor* (2018)
+Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006)
 
-Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (2018)
-
-# Week x | silicon valley
-
-Fred Turner, *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism* (University of Chicago Press, 2006)
-
-Claire L. Evans, *Broad Band: The Untold Story of the Women who Made the Internet*
+Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet*</a>
 
 <!--
 Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Culture 6 (January 1, 1996): 44–72.
@@ -219,17 +242,21 @@ Peter Ludlow, Crypto anarchy, cyberstates, and pirate utopias (2001)
 [previsions of the internet, two MIT volumes I own?]
 -->
 
-# Week x | privacy
+## wk 11 | Nov 5 | algorithms ◦ inequality
+
+Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018)
+
+Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018)
+
+## wk 12 | Nov 12 | privacy
 
 <!--
 Does political discourse / public discourse require anonymity? To what degree?
 -->
 
-Sarah E. Igo, *The Known Citizen: A History of Privacy in Modern America* (2018)
+Sarah E. Igo, <a style="color:red">*The Known Citizen: A History of Privacy in Modern America*</a> (2018)
 
 Woodrow Hartzog, *Privacy’s Blueprint: The Battle to Control the Design of New Technologies* (2018)
-
-Jonathan Gray, ["Three Aspects of Data Worlds,"](http://krisis.eu/three-aspects-of-data-worlds/) *Krisis: Journal for Contemporary Philosophy* (2018)
 
 Sarah Jeong, ["You Can't Escape Data Surveillance In America"](https://www.theatlantic.com/technology/archive/2016/04/credit-reporting-spying/480510/)
 
@@ -237,7 +264,7 @@ Sarah Jeong, ["You Can't Escape Data Surveillance In America"](https://www.theat
 Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 -->
 
-# Week x | the public
+## wk 13 | Nov 26 | the public
 
 Michael Warner, *Publics and Counterpublics* (2002)
 
@@ -245,29 +272,25 @@ Jürgen Habermas, *The Structural Transformation of the Public Sphere: An Inquir
 
 Benedict Anderson, *Imagined Communities* (1983)
 
+Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Technology, and Society 4, no. 0 (July 24, 2018): 423–43.
+
 <!--
 John Dewey v. Walter Lippmann?
 -->
 
-# Week x | technology and the humanities
+## wk 14 | Dec 3 | technology and the humanities
 
 <!--
 humanistic dystopianism…
+
+tech feudalism and info economics…
 -->
 
 Chad Wellmon, draft essay on history of technical and humanistic education
 
-Langdon Winner, *Autonomous Technology: Technics Out-of-Control as a Theme in Political Thought* (1977)
+Nick Srncek, <a style="color:red">*Platform Capitalism*</a>
 
-Andrew Pilsch, *Transhumanism: Evolutionary Futurism and the Human Technologies of Utopia*
-
-# Week x | technology and democracy
-
-tech feudalism and info economics…
-
-Nick Srncek, *Platform Capitalism*
-
-Nick Dyer-Witheford, *Cyber-Proletariat: Global Labour in the Digital Vortex*
+Nick Dyer-Witheford, <a style="color:red">*Cyber-Proletariat: Global Labour in the Digital Vortex*</a>
 
 <!--
 Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/
@@ -286,10 +309,6 @@ Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account
 - Dominic Pettman book on robot love?
 - Lee Humphreys, *The Qualified Self* (2018) ???
 
-# facts / knowledge
-
-Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Technology, and Society 4, no. 0 (July 24, 2018): 423–43, https://doi.org/10.17351/ests2018.188.
-
 # boredom
 
 Pettman
@@ -298,25 +317,11 @@ my DHQ essay?
 
 Benjamin artwork essay
 
-# Tactics
+# Tactics / Pop
 
 James Williams, *Stand out of Our Light: Freedom and Resistance in the Attention Economy* (Cambridge UP, 2018) [open access]
 
 Jaron Lanier, *Ten Arguments for Deleting Your Social Media Accounts Right Now* (Henry Holt and Co., 2018)  [see also *Who Owns the Future* (2014)]
-
-# critical data studies
-
-http://societyandspace.org/2014/05/12/what-does-a-critical-data-studies-look-like-and-why-do-we-care-craig-dalton-and-jim-thatcher/
-
-Paul Dourish, Edgar Gómez Cruz, “Datafication and data fiction: Narrating data and narrating with data” http://journals.sagepub.com/doi/full/10.1177/2053951718784083/
-
-# McLuhan
-
-Elena Lamberti on McLuhan's literary theory beginnings
-
-# others / misc
-
-Our Data Bodies project https://www.odbproject.org/
 
 James Bridle, *New Dark Age*
 
@@ -324,15 +329,29 @@ Adam Greenfield, *Radical Technologies*
 
 Julia Angwin, *Dragnet Nation: A Quest for Privacy, Security, and Freedom in a World of Relentless Surveillance* (2015)
 
+Siva Vaidhyanathan, *Antisocial Media: How Facebook Disconnects Us and Undermines Democracy* (2018)
+
+
+
+Paul Dourish, Edgar Gómez Cruz, “Datafication and data fiction: Narrating data and narrating with data” http://journals.sagepub.com/doi/full/10.1177/2053951718784083/
+
+# McLuhan
+
+Elena Lamberti on McLuhan's literary theory beginnings
+
 Ed Finn, *What Algorithms Want: Imagination in the Age of Computing* (2017)
 
 Nicole Starosielski, *The Undersea Network* (2015)
 
-Siva Vaidhyanathan, *Antisocial Media: How Facebook Disconnects Us and Undermines Democracy* (2018)
-
 Tarleton Gillespie, *Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media* (2018)
 
 Patricia Ticineto Clough, *The User Unconscious: On Affect, Media, and Measure* (essays, 2018)
+
+Jonathan Gray, Carolin Gerlitz, Liliana Bounegru, "Data Infrastructure Literacy," *Big Data and Society* 5, no. 2 (July 2018)
+
+Langdon Winner, *Autonomous Technology: Technics Out-of-Control as a Theme in Political Thought* (1977)
+
+Andrew Pilsch, *Transhumanism: Evolutionary Futurism and the Human Technologies of Utopia*
 
 - Vilém Flusser, *Into the Universe of Technical Images* (2011)
 - Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (2006)
@@ -345,10 +364,5 @@ Patricia Ticineto Clough, *The User Unconscious: On Affect, Media, and Measure* 
 - Deleuze postscript on control societies? And a broader theme: how critical theory anticipates, as if SF, future tecchnosocial developments?
 
 -->
-
-Acknowledgments
-================
-
-Thanks to … whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then & pandoc -o tacitmedia_syllabus.pdf --template tacitmediasyl.latex index.md -->

@@ -1,7 +1,7 @@
 ---
 title: |
-    **VSTUD 502:\ \
-    Tacit Media and Digital Culture** \
+    **Visual Studies 502:\ \
+    Tacit Media and Digital Culture** 📱 \
     Fall 2018 \
     Burrowes 132 \
     Mon 2:30 - 5:30
