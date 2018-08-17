@@ -54,7 +54,6 @@ Issues from smartphone addiction to fake news have computer science programs aro
 -->
 
 - **November 5:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
-- [Rachel Greenstadt](http://drexel.edu/cci/contact/Faculty/Greenstadt-Rachel/), Privacy, Security, and Automation Laboratory, Drexel University
 - [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
 
 # <a name="schedule"></a>Schedule
