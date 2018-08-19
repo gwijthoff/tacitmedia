@@ -55,6 +55,7 @@ Issues from smartphone addiction to fake news have computer science programs aro
 
 - **November 5:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
 - [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
+- Kristene Unsworth, Computer Science, Stockton University, researches information policy, ethics, and civil society
 
 # <a name="schedule"></a>Schedule
 
