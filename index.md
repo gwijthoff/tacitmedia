@@ -1,26 +1,26 @@
 ---
-layout: syllabus-front
-title: Tacit Media and Digital Culture | Fall 2018
+title: |
+    **Visual Studies 502:\ \
+    Tacit Media and Digital Culture** \
+    Fall 2018 \
+    Burrowes 132 \
+    Mon 2:30 - 5:30
+author: |
+    Professor Grant Wythoff\
+    \(<gxw63@psu.edu>\)\
+    Office Hours by appointment\
+     \
+    Course site:\
+    <https://gwijthoff.github.io/tacitmedia>
 ---
 
-# Tacit Media and Digital Culture 📱
+![](assets/images/cc-by.png)\
 
-## Visual Studies 502
+*This syllabus is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
 
-```
-Fall 2018
-Mon 2:30 - 5:30
-Location: Burrowes 132
-
-Dr. Grant Wythoff <gxw63@psu.edu>
-Office hours by appointment
-317 Pattee Library
-```
+* * * * * *
 
 [**Skip to the schedule…**](#schedule)
-
-◦ ◦ ◦
-{: style="text-align: center"}
 
 Description
 ============
