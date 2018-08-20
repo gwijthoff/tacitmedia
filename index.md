@@ -62,7 +62,7 @@ Issues from smartphone addiction to fake news have computer science programs aro
 All readings will be provided in PDF excerpts. <a style="color:red">Book titles in red</a> are recommended for you to purchase.
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 <!--
 ## even weeks: digital media theory
@@ -95,12 +95,12 @@ These exercises, to be paired with particular readings, will introduce everyday 
 Sara M. Watson, "Toward a Constructive Technology Criticism," Tow Center for Digital Journalism (October 2016) [[html]](https://www.cjr.org/tow_center_reports/constructive_technology_criticism.php) \| [[pdf]](readings/Watson_2016_Toward_a_Constructive_Technology_Criticism.pdf)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 2 | Aug 27 | keywords 1
 
 **data ◦ information**
-{: style="text-align: center"}
+
 
 Geoffrey Nunberg, “Farewell to the Information Age,” in *The Future of the Book,* ed. Geoffrey Nunberg (University of California Press, 1996), 103–83. [[pdf]](https://psu.instructure.com/files/93904940/download?download_frd=1)
 
@@ -111,7 +111,7 @@ John Durham Peters, “Information: Notes Toward a Critical History,” *Journal
 Jonathan Gray, "Three Aspects of Data Worlds," *Krisis: Journal for Contemporary Philosophy* issue 1 (2018). [[online]](http://krisis.eu/three-aspects-of-data-worlds/)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 3 | Sept 10 | habit 1
 
@@ -122,12 +122,12 @@ Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury
 Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016).
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 4 | Sept 17 | keywords 2
 
 **technology ◦ technics ◦ media**
-{: style="text-align: center"}
+
 
 Eric Schatzberg, “Technik Comes to America: Changing Meanings of Technology before 1930,” *Technology and Culture* 47, no. 3 (2006): 486–512. [[pdf]](https://psu.instructure.com/files/93903501/download?download_frd=1)
 
@@ -142,7 +142,7 @@ Jacob Bigelow, *Elements of Technology: Taken Chiefly from a Course of Lectures 
 John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2015), 13-52. [[pdf]](https://psu.instructure.com/files/93903500/download?download_frd=1)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 5 | Sept 24 | apparatus ◦ stack
 
@@ -163,7 +163,7 @@ Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignt
 Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200. [[pdf]](https://psu.instructure.com/files/93907231/download?download_frd=1)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 6 | Oct 1 | keywords 3
 
@@ -178,7 +178,7 @@ Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 1
 Friedrich Kittler, “There Is No Software,” in *The Truth of the Technological World: Essays on the Genealogy of Presence* (Stanford University Press, 2013), 219–29. [[pdf]](https://psu.instructure.com/files/93905410/download?download_frd=1)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 7 | Oct 8 | infrastructure ◦ organizing
 
@@ -191,7 +191,7 @@ Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” 
 Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 8 | Oct 15 | determinism ◦ affordances
 
@@ -216,7 +216,7 @@ Ian Hutchby, “Affordances and the Analysis of Technologically Mediated Interac
 Brian Rappert, “Technologies, Texts and Possibilities: A Reply to Hutchby,” *Sociology* 37, no. 3 (August 1, 2003): 565–80
 
 ◦ ◦ ◦
-{: style="text-align: center"}
+
 
 ## wk 9 | Oct 22 | habit 2
 
