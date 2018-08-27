@@ -53,8 +53,8 @@ Each event will involve 1) a brief presentation on the issue, 2) a visiting tech
 Issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to examine what the humanities instead offers fraught conversations on digital culture today.
 -->
 
-- **November 5:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
-- [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
+- **Oct 22-23:** [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
+- **Nov 5-6:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
 - Kristene Unsworth, Computer Science, Stockton University, researches information policy, ethics, and civil society
 
 # <a name="schedule"></a>Schedule
@@ -88,6 +88,8 @@ These exercises, to be paired with particular readings, will introduce everyday 
 - [Lightbeam](https://www.mozilla.org/en-US/lightbeam/) (Firefox) allows you to visualize the tracking that occurs on each page you visit.
 - Ghostery and HTTPS Everywhere
 - More advanced users should consider the EFF’s Privacy Badger which improves upon blacklist-based tools by blocking domains based on their actions.
+- *actually* turn off Google's location tracking https://www.wired.com/story/google-location-tracking-turn-off/
+- stop Facebook targeted ads around the web https://globalnews.ca/news/4110311/how-to-stop-targeted-ads-facebook-google-browser/ and http://nymag.com/selectall/2018/05/facebook-can-now-stop-tracking-you-around-the-web.html
 -->
 
 ## wk 1 | Aug 20 | intro
@@ -115,11 +117,11 @@ Jonathan Gray, "Three Aspects of Data Worlds," *Krisis: Journal for Contemporary
 
 ## wk 3 | Sept 10 | habit 1
 
-Wendy Chun, <a style="color:red">*Updating to Remain the Same: Habitual New Media*</a> (MIT Press: 2016).
+Wendy Chun, <a style="color:red">*Updating to Remain the Same: Habitual New Media*</a> (MIT Press: 2016). [[excerpts]](https://psu.instructure.com/files/94360886/download?download_frd=1)
 
-Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009).
+Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009). [[excperts]](https://psu.instructure.com/files/94360947/download?download_frd=1)
 
-Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016).
+Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016). [[excerpts]](https://psu.instructure.com/files/94361494/download?download_frd=1)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
@@ -189,6 +191,8 @@ Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left
 Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16.
 
 Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
+
+Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
 ◦ ◦ ◦
 {: style="text-align: center"}

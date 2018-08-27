@@ -16,6 +16,8 @@ title: Resources
 
 [Our Data Bodies](https://www.odbproject.org/), in Charlotte, Detroit, and LA, tracking "the ways our communities’ digital information is collected, stored, and shared by government and corporations"
 
+[#MoreThanCode](https://morethancode.cc/), a participatory action research project intended to better understand the types of work currently being done with technology for social justice
+
 ## Organizations
 
 [Data and Society](https://datasociety.net/), research center in NYC
