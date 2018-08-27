@@ -119,7 +119,7 @@ Jonathan Gray, "Three Aspects of Data Worlds," *Krisis: Journal for Contemporary
 
 Wendy Chun, <a style="color:red">*Updating to Remain the Same: Habitual New Media*</a> (MIT Press: 2016). [[excerpts]](https://psu.instructure.com/files/94360886/download?download_frd=1)
 
-Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009). [[excperts]](https://psu.instructure.com/files/94360947/download?download_frd=1)
+Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009). [[excerpts]](https://psu.instructure.com/files/94360947/download?download_frd=1)
 
 Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016). [[excerpts]](https://psu.instructure.com/files/94361494/download?download_frd=1)
 
