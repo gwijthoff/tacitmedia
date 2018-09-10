@@ -53,9 +53,9 @@ Each event will involve 1) a brief presentation on the issue, 2) a visiting tech
 Issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to examine what the humanities instead offers fraught conversations on digital culture today.
 -->
 
+- **Oct 8-9:** Kristene Unsworth, Computer Science, Drexel University, researches information policy, ethics, and civil society
 - **Oct 22-23:** [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
 - **Nov 5-6:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
-- Kristene Unsworth, Computer Science, Drexel University, researches information policy, ethics, and civil society
 
 # <a name="schedule"></a>Schedule
 
@@ -79,6 +79,7 @@ Odd-numbered weeks will be devoted to influential concepts from the history of m
 These exercises, to be paired with particular readings, will introduce everyday tactics for, among other things, regaining authorship over the portraits of our lives being assembled by data brokers, and protecting against surveillance by government agencies who actively monitor the search results and social media activity of immigrants and citizens who speak with immigrants.
 
 - Conduct self-surveillance using browser plugins like Data Selfie [shutdown notice](https://dataselfie.it/#/shutdown), ProPublica's "What Facebook Thinks You Like," and Cambridge's "Apply Magic Sauce" in order to see (and alter) how Facebook creates your psychological profile.
+- read *Public By Default* Venmo stories from public Venmo data <https://publicbydefault.fyi/>
 - Using an arbitrarily selected calendar date that the class will agree on as a group (i.e. Wednesday, March 9, 2016), reconstruct a narrative of that day based on traces you have willingly left behind: emails, Facebook likes, activity trackers, etc. We will assemble a portrait of this day using only our digitally-distributed memories.
 - Request your data profiles from Facebook and Twitter using PersonalData.io, and from data brokers using Acxiom's "Consumer Data Information" form.
 - conduct a close reading of the privacy policy on three websites, online stores, or services you have used recently (overstock, comcast, etc)
@@ -88,7 +89,6 @@ These exercises, to be paired with particular readings, will introduce everyday 
 - [Lightbeam](https://www.mozilla.org/en-US/lightbeam/) (Firefox) allows you to visualize the tracking that occurs on each page you visit.
 - Ghostery and HTTPS Everywhere
 - More advanced users should consider the EFF’s Privacy Badger which improves upon blacklist-based tools by blocking domains based on their actions.
-- *actually* turn off Google's location tracking https://www.wired.com/story/google-location-tracking-turn-off/
 - stop Facebook targeted ads around the web https://globalnews.ca/news/4110311/how-to-stop-targeted-ads-facebook-google-browser/ and http://nymag.com/selectall/2018/05/facebook-can-now-stop-tracking-you-around-the-web.html
 -->
 
@@ -122,6 +122,12 @@ Wendy Chun, <a style="color:red">*Updating to Remain the Same: Habitual New Medi
 Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury, 2009). [[excerpts]](https://psu.instructure.com/files/94360947/download?download_frd=1)
 
 Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016). [[excerpts]](https://psu.instructure.com/files/94361494/download?download_frd=1)
+
+### Exercises
+
+Explore [Google Maps "Timeline"](https://www.google.com/maps/timeline) and the [multiple steps required](https://www.wired.com/story/google-location-tracking-turn-off/) to actually turn it off.
+
+View the [ad categories Facebook has assigned you](https://www.facebook.com/ads/preferences) and learn how to track and block them with [Fuzzify.me](https://chupadados.codingrights.org/en/fuzzifyme/)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
@@ -163,6 +169,8 @@ Jean-Louis Comolli, "Technique and Ideology: Camera, Perspective, Depth of Field
 Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015)
 
 Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200. [[pdf]](https://psu.instructure.com/files/93907231/download?download_frd=1)
+
+[*Anatomy of an AI System*](https://anatomyof.ai/), Kate Crawford and Vladan Joler
 
 ◦ ◦ ◦
 {: style="text-align: center"}
@@ -307,6 +315,7 @@ Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account
 - Edward Luce, *The Retreat of Western Liberalism*
 - Robert Dahl, *On Democracy* (1998)
 - Steven Levitsky, Daniel Ziblatt, *How Democracies Die* (2018)
+- Jeffrey Stout, *Democracy and Tradition* (2004)
 
 # intimacy
 
