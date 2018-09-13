@@ -90,6 +90,7 @@ These exercises, to be paired with particular readings, will introduce everyday 
 - Ghostery and HTTPS Everywhere
 - More advanced users should consider the EFF’s Privacy Badger which improves upon blacklist-based tools by blocking domains based on their actions.
 - stop Facebook targeted ads around the web https://globalnews.ca/news/4110311/how-to-stop-targeted-ads-facebook-google-browser/ and http://nymag.com/selectall/2018/05/facebook-can-now-stop-tracking-you-around-the-web.html
+- visual introduction to machine learning: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 -->
 
 ## wk 1 | Aug 20 | intro
@@ -123,11 +124,13 @@ Felix Ravaisson, *Of Habit,* trans. Clare Carlisle and Mark Sinclair (Bloomsbury
 
 Matthew B. Crawford, *The World Beyond Your Head: On Becoming an Individual in an Age of Distraction* (Farrar, Straus and Giroux, 2016). [[excerpts]](https://psu.instructure.com/files/94361494/download?download_frd=1)
 
+<div class="ba b--dashed br4 w-85 pa3">
 ### Exercises
 
 Explore [Google Maps "Timeline"](https://www.google.com/maps/timeline) and the [multiple steps required](https://www.wired.com/story/google-location-tracking-turn-off/) to actually turn it off.
 
 View the [ad categories Facebook has assigned you](https://www.facebook.com/ads/preferences) and learn how to track and block them with [Fuzzify.me](https://chupadados.codingrights.org/en/fuzzifyme/)
+</div>
 
 ◦ ◦ ◦
 {: style="text-align: center"}
