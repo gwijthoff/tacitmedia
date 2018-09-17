@@ -161,19 +161,19 @@ John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Ph
 On “paranoid reading” (psychoanalytic film theory) and “reparative reading” (newer infrastructure studies??) in Sedgwick’s terms. See also Heather Love on both terms. Related concepts of hermeneutics of suspicion, post-critique, surface reading.
 -->
 
-Frank Kessler, "Notes on *Dispositif*" (2007)
+Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015) [[pdf]](https://psu.instructure.com/files/94956478/download?download_frd=1)
 
-Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus," in Philip Rosen, ed. *Narrative, Apparatus, Ideology: A Film Theory Reader* (1986)
+Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus," *Film Quarterly* 28, no. 2 (1974 [1970]). [[pdf]](https://psu.instructure.com/files/94955297/download?download_frd=1)
 
-Baudry, "The Apparatus: Metapsychological Approaches to the Impression of Reality in Cinema," in Ibid.
+Frank Kessler, "Notes on *Dispositif*" (2007) [[pdf]](https://psu.instructure.com/files/94955355/download?download_frd=1)
 
-Jean-Louis Comolli, "Technique and Ideology: Camera, Perspective, Depth of Field," in Ibid.
-
-Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015)
-
-Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200. [[pdf]](https://psu.instructure.com/files/93907231/download?download_frd=1)
+### further
 
 [*Anatomy of an AI System*](https://anatomyof.ai/), Kate Crawford and Vladan Joler
+
+Philip Rosen, ed. *Narrative, Apparatus, Ideology: A Film Theory Reader* (1986)
+
+Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200. [[pdf]](https://psu.instructure.com/files/93907231/download?download_frd=1)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
