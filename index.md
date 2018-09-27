@@ -155,7 +155,22 @@ John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Ph
 ◦ ◦ ◦
 {: style="text-align: center"}
 
-## wk 5 | Sept 24 | apparatus ◦ stack
+## wk 5 | Sept 24 | keywords 3
+
+**digital ◦ analog ◦ hardware ◦ software**
+
+Ralph W. Gerard, “Some of the Problems Concerning Digital Notions in the Central Nervous System,” in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Diaphanes, 2016 [1950]), 171–202. [[pdf]](https://psu.instructure.com/files/93904437/download?download_frd=1)
+
+John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25. [[pdf]](https://psu.instructure.com/files/93904440/download?download_frd=1)
+
+Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 151–78. [[pdf]](https://psu.instructure.com/files/93904431/download?download_frd=1)
+
+Friedrich Kittler, “There Is No Software,” in *The Truth of the Technological World: Essays on the Genealogy of Presence* (Stanford University Press, 2013), 219–29. [[pdf]](https://psu.instructure.com/files/93905410/download?download_frd=1)
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 6 | Oct 1 | apparatus ◦ stack
 
 <!--
 On “paranoid reading” (psychoanalytic film theory) and “reparative reading” (newer infrastructure studies??) in Sedgwick’s terms. See also Heather Love on both terms. Related concepts of hermeneutics of suspicion, post-critique, surface reading.
@@ -178,32 +193,17 @@ Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infr
 ◦ ◦ ◦
 {: style="text-align: center"}
 
-## wk 6 | Oct 1 | keywords 3
-
-**digital ◦ analog ◦ hardware ◦ software**
-
-Ralph W. Gerard, “Some of the Problems Concerning Digital Notions in the Central Nervous System,” in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Diaphanes, 2016 [1950]), 171–202. [[pdf]](https://psu.instructure.com/files/93904437/download?download_frd=1)
-
-John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25. [[pdf]](https://psu.instructure.com/files/93904440/download?download_frd=1)
-
-Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 151–78. [[pdf]](https://psu.instructure.com/files/93904431/download?download_frd=1)
-
-Friedrich Kittler, “There Is No Software,” in *The Truth of the Technological World: Essays on the Genealogy of Presence* (Stanford University Press, 2013), 219–29. [[pdf]](https://psu.instructure.com/files/93905410/download?download_frd=1)
-
-◦ ◦ ◦
-{: style="text-align: center"}
-
 ## wk 7 | Oct 8 | infrastructure ◦ organizing
+
+Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
+
+Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
 Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28.
 
 Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36.
 
 Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16.
-
-Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
-
-Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
 ◦ ◦ ◦
 {: style="text-align: center"}
