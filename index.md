@@ -195,15 +195,17 @@ Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infr
 
 ## wk 7 | Oct 8 | infrastructure ◦ organizing
 
-Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017)
+Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017) [[pdf]](https://psu.instructure.com/files/95314356/download?download_frd=1)
 
 Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
-Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28.
+Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36. [[pd]](https://psu.instructure.com/files/95314659/download?download_frd=1)
 
-Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36.
+Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16. [[pdf]](https://psu.instructure.com/files/95314657/download?download_frd=1)
 
-Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16.
+### Further
+
+Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28. [[pdf]](https://psu.instructure.com/files/95314785/download?download_frd=1)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
