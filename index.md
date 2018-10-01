@@ -171,10 +171,7 @@ Friedrich Kittler, “There Is No Software,” in *The Truth of the Technologica
 {: style="text-align: center"}
 
 ## wk 6 | Oct 1 | apparatus ◦ stack
-
-<!--
-On “paranoid reading” (psychoanalytic film theory) and “reparative reading” (newer infrastructure studies??) in Sedgwick’s terms. See also Heather Love on both terms. Related concepts of hermeneutics of suspicion, post-critique, surface reading.
--->
+<!-- Hannah -->
 
 Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015) [[pdf]](https://psu.instructure.com/files/94956478/download?download_frd=1)
 
@@ -184,7 +181,7 @@ Frank Kessler, "Notes on *Dispositif*" (2007) [[pdf]](https://psu.instructure.co
 
 ### further
 
-[*Anatomy of an AI System*](https://anatomyof.ai/), Kate Crawford and Vladan Joler
+Kate Crawford and Vladan Joler, “[Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources](https://anatomyof.ai/),” AI Now Institute and Share Lab, September 7, 2018.
 
 Philip Rosen, ed. *Narrative, Apparatus, Ideology: A Film Theory Reader* (1986)
 
@@ -194,12 +191,13 @@ Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infr
 {: style="text-align: center"}
 
 ## wk 7 | Oct 8 | infrastructure ◦ organizing
+<!-- Crisann -->
 
 Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017) [[pdf]](https://psu.instructure.com/files/95314356/download?download_frd=1)
 
 Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
-Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36. [[pd]](https://psu.instructure.com/files/95314659/download?download_frd=1)
+Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36. [[pdf]](https://psu.instructure.com/files/95314659/download?download_frd=1)
 
 Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16. [[pdf]](https://psu.instructure.com/files/95314657/download?download_frd=1)
 
@@ -210,7 +208,35 @@ Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Functio
 ◦ ◦ ◦
 {: style="text-align: center"}
 
-## wk 8 | Oct 15 | determinism ◦ affordances
+## wk 8 | Oct 15 | habit 2
+<!-- Katie -->
+
+James Williams, *Stand out of our Light: Freedom and Resistance in the Attention Economy* (2018) [[pdf]](https://psu.instructure.com/files/95347538/download?download_frd=1)
+
+Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
+
+Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2018.
+
+### Further
+
+Carl Cederström and André Spicer, *The Wellness Syndrome* (Polity, 2015).
+
+Svend Brinkmann, *Stand Firm: Resisting the Self-Improvement Craze,* (Polity, 2017).
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 9 | Oct 22 | algorithms ◦ inequality
+
+Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018)
+
+Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018)
+
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 10 | Oct 29 | determinism ◦ affordances
+<!-- Mike -->
 
 John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” *Representations* 140 (Fall 2017): 10–26.
 
@@ -224,28 +250,33 @@ Jenny L. Davis and James B. Chouinard, “Theorizing Affordances: From Request t
 
 B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Action Possibilities: When Is an Affordance?,” *Sociology* 44, no. 3 (June 18, 2010): 415–33.
 
-Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (May 1, 2001): 441–56.
-
 ### further
 
-Ian Hutchby, “Affordances and the Analysis of Technologically Mediated Interaction: A Response to Brian Rappert,” *Sociology* 37, no. 3 (August 1, 2003): 581–89.
-
-Brian Rappert, “Technologies, Texts and Possibilities: A Reply to Hutchby,” *Sociology* 37, no. 3 (August 1, 2003): 565–80
+Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (May 1, 2001): 441–56. See also Brian Rappert's reply and Hutchby's response in v. 37, n. 3.
 
 ◦ ◦ ◦
 {: style="text-align: center"}
 
-## wk 9 | Oct 22 | habit 2
+## wk 11 | Nov 5 | privacy
 
-Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
+<!--
+Does political discourse / public discourse require anonymity? To what degree?
+-->
 
-Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2008.
+Sarah E. Igo, <a style="color:red">*The Known Citizen: A History of Privacy in Modern America*</a> (2018)
 
-Carl Cederström and André Spicer, *The Wellness Syndrome* (Polity, 2015).
+Sarah Jeong, ["You Can't Escape Data Surveillance In America,"](https://www.theatlantic.com/technology/archive/2016/04/credit-reporting-spying/480510/) *The Atlantic,* April 29, 2016
 
-Svend Brinkmann, *Stand Firm: Resisting the Self-Improvement Craze,* (Polity, 2017).
+### Further
 
-## wk 10 | Oct 29 | silicon valley
+Woodrow Hartzog, *Privacy’s Blueprint: The Battle to Control the Design of New Technologies* (2018)
+
+<!--
+Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+-->
+
+## wk 12 | Nov 12 | silicon valley
+<!-- Aaron -->
 
 Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006)
 
@@ -257,28 +288,6 @@ Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Cu
 Peter Ludlow, Crypto anarchy, cyberstates, and pirate utopias (2001)
 
 [previsions of the internet, two MIT volumes I own?]
--->
-
-## wk 11 | Nov 5 | algorithms ◦ inequality
-
-Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018)
-
-Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018)
-
-## wk 12 | Nov 12 | privacy
-
-<!--
-Does political discourse / public discourse require anonymity? To what degree?
--->
-
-Sarah E. Igo, <a style="color:red">*The Known Citizen: A History of Privacy in Modern America*</a> (2018)
-
-Woodrow Hartzog, *Privacy’s Blueprint: The Battle to Control the Design of New Technologies* (2018)
-
-Sarah Jeong, ["You Can't Escape Data Surveillance In America"](https://www.theatlantic.com/technology/archive/2016/04/credit-reporting-spying/480510/)
-
-<!--
-Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 -->
 
 ## wk 13 | Nov 26 | the public
