@@ -53,7 +53,7 @@ Each event will involve 1) a brief presentation on the issue, 2) a visiting tech
 Issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to examine what the humanities instead offers fraught conversations on digital culture today.
 -->
 
-- **Oct 8-9:** Kristene Unsworth, Computer Science, Drexel University, researches information policy, ethics, and civil society
+- **Oct 8-9:** [Kristene Unsworth](https://unsworthk.com/), STS and Computer Science, Drexel University, researches information policy, ethics, and civil society
 - **Oct 22-23:** [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
 - **Nov 5-6:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
 
@@ -209,7 +209,6 @@ Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Functio
 {: style="text-align: center"}
 
 ## wk 8 | Oct 15 | habit 2
-<!-- Katie -->
 
 James Williams, *Stand out of our Light: Freedom and Resistance in the Attention Economy* (2018) [[pdf]](https://psu.instructure.com/files/95347538/download?download_frd=1)
 
@@ -227,6 +226,7 @@ Svend Brinkmann, *Stand Firm: Resisting the Self-Improvement Craze,* (Polity, 20
 {: style="text-align: center"}
 
 ## wk 9 | Oct 22 | algorithms ◦ inequality
+<!-- Katie -->
 
 Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018)
 
@@ -277,6 +277,7 @@ Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy
 
 ## wk 12 | Nov 12 | silicon valley
 <!-- Aaron -->
+<!-- Camila -->
 
 Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006)
 

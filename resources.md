@@ -24,6 +24,8 @@ title: Resources
 
 [AI Now Institute](https://ainowinstitute.org/), research center at NYU
 
+[Platform Cooperativism](https://platform.coop/about), "Making good on the early promise of the Web to decentralize the power of apps, protocols, and websites, platform co-ops allow households with low and volatile income to benefit from the shift of labor markets to the Internet."
+
 [Open Technology Fund](https://www.opentech.fund/) in DC, supporting global Internet freedom projects
 
 [My Data](https://mydata.org), international org with local hubs that "empower individuals with their personal data"
