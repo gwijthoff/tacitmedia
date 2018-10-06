@@ -3,14 +3,13 @@ layout: page
 title: Workshops
 ---
 
+**All events held in 201 Thomas from 9:05a to 10:20a**
+
 - **Tue, Oct 9:** [Kristene Unsworth](https://unsworthk.com/), STS and Computer Science, Drexel University, researches information policy, ethics, and civil society
 - **Tue, Oct 23:** [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
 - **Tue, Nov 6:** [Jessa Lingel](https://www.asc.upenn.edu/people/faculty/jessa-lingel-phd), Annenberg School of Communication, University of Pennsylvania
 
-**All events held in 201 Thomas from 9:05a to 10:20a**
-
-Data Privacy, Democracy, and the Humanities
-===================================
+## Data Privacy, Democracy, and the Humanities
 
 These undergraduate workshops on privacy, surveillance, and social media practices will show the value of humanities perspectives on digital media today. Each workshop will pair hands-on lessons using students’ own devices with concepts from philosophy, history, and media studies. We will address tactics for protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. As recently reported in the NY Times, issues from smartphone addiction to fake news have computer science programs around the country looking for ways to teach ethics and politics. I would like these workshops to demonstrate what the humanities offers fraught conversations on digital culture today.
 

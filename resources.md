@@ -19,6 +19,8 @@ title: Resources
 
 - See also [The Internet of Ownership](https://ioo.coop/about/)
 
+[Ethical OS Toolkit](https://ethicalos.org/), for "anticipate the long-term social impact and unexpected uses of the tech we create today." Designed by the Institute for the Future
+
 ## Organizations
 
 [Data and Society](https://datasociety.net/), research center in NYC
