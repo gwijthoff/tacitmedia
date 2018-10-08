@@ -199,7 +199,7 @@ Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://
 
 Hans Magnus Enzensberger, “Constituents of a Theory of the Media,” *New Left Review* I 64 (December 1970): 13-36. [[pdf]](https://psu.instructure.com/files/95314659/download?download_frd=1)
 
-Jean Baudrillard, “Toward a Critique of the Political Economy of the Sign,” *SubStance* 5, no. 15 (1976): 111–16. [[pdf]](https://psu.instructure.com/files/95314657/download?download_frd=1)
+Jean Baudrillard, “Requiem for the Media,” in *For a Critique of the Political Economy of the Sign,* trans. Charles Levin (St. Louis: Telos Press, 1981) [[pdf]](https://psu.instructure.com/files/95543652/download?download_frd=1)
 
 ### Further
 
@@ -212,9 +212,9 @@ Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Functio
 
 James Williams, *Stand out of our Light: Freedom and Resistance in the Attention Economy* (2018) [[pdf]](https://psu.instructure.com/files/95347538/download?download_frd=1)
 
-Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
-
 Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2018.
+
+Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
 
 ### Further
 
