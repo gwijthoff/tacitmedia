@@ -214,13 +214,15 @@ James Williams, *Stand out of our Light: Freedom and Resistance in the Attention
 
 Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2018.
 
-Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117.
+Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117. [[pdf]](https://psu.instructure.com/files/95577893/download?download_frd=1)
 
 ### Further
 
 Carl Cederström and André Spicer, *The Wellness Syndrome* (Polity, 2015).
 
 Svend Brinkmann, *Stand Firm: Resisting the Self-Improvement Craze,* (Polity, 2017).
+
+Neta Alexander, “Rage Against the Machine: Buffering, Noise, and Perpetual Anxiety in the Age of Connected Viewing,” *Cinema Journal* 56, no. 2 (Winter 2017): 1–24.
 
 ◦ ◦ ◦
 {: style="text-align: center"}
