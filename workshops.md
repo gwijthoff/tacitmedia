@@ -3,7 +3,7 @@ layout: page
 title: Workshops
 ---
 
-**All events held in 201 Thomas from 9:05a to 10:20a**
+**All events held in 107 Business Building from 9:05a to 10:20a**
 
 - **Tue, Oct 9:** [Kristene Unsworth](https://unsworthk.com/), STS and Computer Science, Drexel University, researches information policy, ethics, and civil society
 - **Tue, Oct 23:** [Hannah Sassaman](https://mediamobilizing.org/soros-justice-fellowship/), Media Mobilizing Project and 2017 Soros Justice Fellow
