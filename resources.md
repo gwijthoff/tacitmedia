@@ -40,3 +40,7 @@ title: Resources
 [Tactical Technology Collective](https://tacticaltech.org/), Berlin-based nonprofit. See especially [Our Data Our Selves](https://ourdataourselves.tacticaltech.org/) project
 
 [Data Transparency Lab](http://datatransparencylab.org/), in Barcelona, working to "define new standards and guidelines for how our personal data is owned, accessed and used"
+
+## Resources
+
+[Firefox's recommended privacy extensions](https://blog.mozilla.org/firefox/make-your-firefox-browser-a-privacy-superpower-with-these-extensions/)
