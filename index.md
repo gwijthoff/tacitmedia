@@ -230,9 +230,9 @@ Neta Alexander, “Rage Against the Machine: Buffering, Noise, and Perpetual Anx
 ## wk 9 | Oct 22 | algorithms ◦ inequality
 <!-- Katie -->
 
-Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018)
+Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018) [[pdf]](https://psu.instructure.com/files/95767880/download?download_frd=1)
 
-Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018)
+Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018) [[pdf]](https://psu.instructure.com/files/95767877/download?download_frd=1)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
