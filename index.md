@@ -27,6 +27,8 @@ Description
 
 
 <!--
+The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a digitally networked world has changed something about the way we understand ourselves as both individuals and members of a public. In a moment when digital media are complicating some of our foundational assumptions about everything from democratic consensus to the nature of privacy, we need to take stock of the kinds of humanistic research that can put these developments into perspective.
+
 This seminar will require flexibility in your reading: we will be moving from French poststructuralism to digital media theory to popular writing.
 
 Aim of the course for me personally: to be able to articulate why media theory matters in the public sphere
@@ -34,9 +36,9 @@ Aim of the course for me personally: to be able to articulate why media theory m
 We'll move from more classic media theory concerns (apparatus, technological determinism) with updates on how those terms are evolving now, and then we'll proceed into more emerging areas of research (habit, algorithms, privacy).
 -->
 
-The luddites, the philosophers, even the tech evangelists all seem to be in agreement that living in a digitally networked world has changed something about the way we understand ourselves as both individuals and members of a public. In a moment when digital media are complicating some of our foundational assumptions about everything from democratic consensus to the nature of privacy, we need to take stock of the kinds of humanistic research that can put these developments into perspective.
+This seminar will introduce a range of frameworks useful for thinking through the history, politics, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies. In what ways do canonical media theories, keyed to the analysis of older media (cinema, radio), address contemporary issues in digital culture and politics?
 
-This seminar will introduce a range of frameworks useful for thinking through the history, politics, ethics, and aesthetics of digital media. Units on emerging approaches to contemporary digital infrastructures (questions of selfhood, privacy, algorithms and inequality) will be paired with an overview of the most influential paradigms in media studies to guide us through these more contemporary issues. Concepts from our readings will be operationalized with weekly exercises that include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.
+Concepts from our readings will be operationalized with weekly exercises that include tactics for or protecting personal data, blocking unwarranted surveillance, and leaving filter bubbles. Students will leave with the basic computational literacy necessary for informed scholarship that both critiques and utilizes digital media.
 
 Guiding us through these wide-ranging subjects will be a structuring theme: "tacit media," or the background, habitual operation of our networked devices that we take for granted and that take us for granted in turn. How can boredom, distraction, and habit––once celebrated by media theorists as "embodied intelligence" (Susan Sontag) and "tactile appropriation" (Walter Benjamin)––continue to be tactical modes of engagement in our current media and political environment?
 
