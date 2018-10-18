@@ -230,7 +230,6 @@ Neta Alexander, “Rage Against the Machine: Buffering, Noise, and Perpetual Anx
 {: style="text-align: center"}
 
 ## wk 9 | Oct 22 | algorithms ◦ inequality
-<!-- Katie -->
 
 Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018) [[pdf]](https://psu.instructure.com/files/95767880/download?download_frd=1)
 
@@ -262,6 +261,7 @@ Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (M
 {: style="text-align: center"}
 
 ## wk 11 | Nov 5 | privacy
+<!-- Katy -->
 
 <!--
 Does political discourse / public discourse require anonymity? To what degree?
