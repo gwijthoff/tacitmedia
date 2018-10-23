@@ -241,19 +241,17 @@ Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search E
 ## wk 10 | Oct 29 | determinism ◦ affordances
 <!-- Mike -->
 
-John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” *Representations* 140 (Fall 2017): 10–26.
+John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” *Representations* 140 (Fall 2017): 10–26. [[pdf]](https://psu.instructure.com/files/95960280/download?download_frd=1)
 
-Matthew Fuller, “The Forbidden Pleasures of Media Determining,” in *Media After Kittler,* ed. Eleni Ikoniadou and Scott Wilson (Rowman & Littlefield, 2015), 95–110.
+Matthew Fuller, “The Forbidden Pleasures of Media Determining,” in *Media After Kittler,* ed. Eleni Ikoniadou and Scott Wilson (Rowman & Littlefield, 2015), 95–110. [[pdf]](https://psu.instructure.com/files/95960303/download?download_frd=1)
 
-introduction to *The Social Construction of Technological Systems*
+James J. Gibson, “The Theory of Affordances,” in *Perceiving, Acting, and Knowing,* ed. Robert Shaw and John Bransford (University of Michigan Press, 1977) [[pdf]](https://psu.instructure.com/files/95960487/download?download_frd=1)
 
-James J. Gibson, “The Theory of Affordances,” in *Perceiving, Acting, and Knowing,* ed. Robert Shaw and John Bransford (University of Michigan Press, 1977)
-
-Jenny L. Davis and James B. Chouinard, “Theorizing Affordances: From Request to Refuse,” *Bulletin of Science, Technology & Society,* June 2017
-
-B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Action Possibilities: When Is an Affordance?,” *Sociology* 44, no. 3 (June 18, 2010): 415–33.
+B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Action Possibilities: When Is an Affordance?,” *Sociology* 44, no. 3 (June 18, 2010): 415–33. [[pdf]](https://psu.instructure.com/files/95960383/download?download_frd=1)
 
 ### further
+
+Jenny L. Davis and James B. Chouinard, “Theorizing Affordances: From Request to Refuse,” *Bulletin of Science, Technology & Society,* June 2017
 
 Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (May 1, 2001): 441–56. See also Brian Rappert's reply and Hutchby's response in v. 37, n. 3.
 
