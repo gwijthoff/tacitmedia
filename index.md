@@ -239,7 +239,9 @@ Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search E
 {: style="text-align: center"}
 
 ## wk 10 | Oct 29 | determinism ◦ affordances
-<!-- Mike -->
+<!-- Mike
+People You May Know Inspector https://github.com/GMG-Special-Projects-Desk/pymk-inspector
+-->
 
 John Durham Peters, “‘You Mean My Whole Fallacy Is Wrong’: On Technological Determinism,” *Representations* 140 (Fall 2017): 10–26. [[pdf]](https://psu.instructure.com/files/95960280/download?download_frd=1)
 
@@ -281,9 +283,9 @@ Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy
 <!-- Aaron -->
 <!-- Camila -->
 
-Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006)
+Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006), Intro, Ch. 2 and 3 [[pdf]](https://psu.instructure.com/files/96341537/download?download_frd=1)
 
-Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet*</a>
+Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet,*</a> Intro, Ch. 7 and 8 [[pdf]](https://psu.instructure.com/files/96341947/download?download_frd=1)
 
 <!--
 Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Culture 6 (January 1, 1996): 44–72.
@@ -307,15 +309,15 @@ Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Tech
 John Dewey v. Walter Lippmann?
 -->
 
-## wk 14 | Dec 3 | technology and the humanities
+## wk 14 | Dec 3 | platforms and feudalism
 
 <!--
 humanistic dystopianism…
 
 tech feudalism and info economics…
--->
 
 Chad Wellmon, draft essay on history of technical and humanistic education
+-->
 
 Nick Srncek, <a style="color:red">*Platform Capitalism*</a>
 

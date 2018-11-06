@@ -21,6 +21,8 @@ title: Resources
 
 [Ethical OS Toolkit](https://ethicalos.org/), for "anticipate the long-term social impact and unexpected uses of the tech we create today." Designed by the Institute for the Future
 
+[Digital Ethereal](http://www.digitalethereal.com/), long exposure photography by designer Luis Hernan that captures invisible WiFi signals.
+
 ## Organizations
 
 [Data and Society](https://datasociety.net/), research center in NYC
@@ -40,6 +42,8 @@ title: Resources
 [Tactical Technology Collective](https://tacticaltech.org/), Berlin-based nonprofit. See especially [Our Data Our Selves](https://ourdataourselves.tacticaltech.org/) project
 
 [Data Transparency Lab](http://datatransparencylab.org/), in Barcelona, working to "define new standards and guidelines for how our personal data is owned, accessed and used"
+
+[Pervade: Pervasive Data Ethics](https://pervade.umd.edu/), exploring how people experience the reuse of their data through the internet of things, wearable devices, ubiquitous sensing, and social sharing platforms. Collaboration between faculty and PhD students at multiple iSchools
 
 ## Resources
 
