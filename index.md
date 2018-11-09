@@ -175,7 +175,7 @@ Friedrich Kittler, “There Is No Software,” in *The Truth of the Technologica
 ## wk 6 | Oct 1 | apparatus ◦ stack
 <!-- Hannah -->
 
-Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty*</a> (2015) [[pdf]](https://psu.instructure.com/files/94956478/download?download_frd=1)
+Benjamin H. Bratton, <a style="color:red">*The Stack: On Software and Sovereignty,*</a> (MIT Press, 2015) [[pdf]](https://psu.instructure.com/files/94956478/download?download_frd=1)
 
 Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus," *Film Quarterly* 28, no. 2 (1974 [1970]). [[pdf]](https://psu.instructure.com/files/94955297/download?download_frd=1)
 
@@ -195,7 +195,7 @@ Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infr
 ## wk 7 | Oct 8 | infrastructure ◦ organizing
 <!-- Crisann -->
 
-Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest*</a> (2017) [[pdf]](https://psu.instructure.com/files/95314356/download?download_frd=1)
+Zeynep Tufekci, <a style="color:red">*Twitter and Tear Gas: The Power and Fragility of Networked Protest,*</a> (Yale UP, 2017) [[pdf]](https://psu.instructure.com/files/95314356/download?download_frd=1)
 
 Tufekci, "[How Social Media took us from Tahrir Square to Donald Trump](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)," *Technology Review,* Aug 14, 2018.
 
@@ -212,7 +212,7 @@ Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Functio
 
 ## wk 8 | Oct 15 | habit 2
 
-James Williams, *Stand out of our Light: Freedom and Resistance in the Attention Economy* (2018) [[pdf]](https://psu.instructure.com/files/95347538/download?download_frd=1)
+James Williams, *Stand out of our Light: Freedom and Resistance in the Attention Economy* (Cambridge UP, 2018) [[pdf]](https://psu.instructure.com/files/95347538/download?download_frd=1)
 
 Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2018.
 
@@ -231,9 +231,9 @@ Neta Alexander, “Rage Against the Machine: Buffering, Noise, and Perpetual Anx
 
 ## wk 9 | Oct 22 | algorithms ◦ inequality
 
-Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*</a> (2018) [[pdf]](https://psu.instructure.com/files/95767880/download?download_frd=1)
+Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor,*</a> (St. Martins, 2018) [[pdf]](https://psu.instructure.com/files/95767880/download?download_frd=1)
 
-Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism*</a> (2018) [[pdf]](https://psu.instructure.com/files/95767877/download?download_frd=1)
+Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism,*</a> (NYU Press, 2018) [[pdf]](https://psu.instructure.com/files/95767877/download?download_frd=1)
 
 ◦ ◦ ◦
 {: style="text-align: center"}
@@ -267,7 +267,7 @@ Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (M
 Does political discourse / public discourse require anonymity? To what degree?
 -->
 
-Sarah E. Igo, <a style="color:red">*The Known Citizen: A History of Privacy in Modern America*</a> (2018)
+Sarah E. Igo, <a style="color:red">*The Known Citizen: A History of Privacy in Modern America,*</a> (Harvard UP, 2018)
 
 Sarah Jeong, ["You Can't Escape Data Surveillance In America,"](https://www.theatlantic.com/technology/archive/2016/04/credit-reporting-spying/480510/) *The Atlantic,* April 29, 2016
 
@@ -279,13 +279,16 @@ Woodrow Hartzog, *Privacy’s Blueprint: The Battle to Control the Design of New
 Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 -->
 
+◦ ◦ ◦
+{: style="text-align: center"}
+
 ## wk 12 | Nov 12 | silicon valley
 <!-- Aaron -->
 <!-- Camila -->
 
 Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006), Intro, Ch. 2 and 3 [[pdf]](https://psu.instructure.com/files/96341537/download?download_frd=1)
 
-Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet,*</a> Intro, Ch. 7 and 8 [[pdf]](https://psu.instructure.com/files/96341947/download?download_frd=1)
+Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet,*</a> (Penguin Random House, 2018) Intro, Ch. 7 and 8 [[pdf]](https://psu.instructure.com/files/96341947/download?download_frd=1)
 
 <!--
 Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Culture 6 (January 1, 1996): 44–72.
@@ -295,21 +298,10 @@ Peter Ludlow, Crypto anarchy, cyberstates, and pirate utopias (2001)
 [previsions of the internet, two MIT volumes I own?]
 -->
 
-## wk 13 | Nov 26 | the public
+◦ ◦ ◦
+{: style="text-align: center"}
 
-Michael Warner, *Publics and Counterpublics* (2002)
-
-Jürgen Habermas, *The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society* (1962/1989)
-
-Benedict Anderson, *Imagined Communities* (1983)
-
-Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Technology, and Society 4, no. 0 (July 24, 2018): 423–43.
-
-<!--
-John Dewey v. Walter Lippmann?
--->
-
-## wk 14 | Dec 3 | platforms and feudalism
+## wk 13 | Nov 26 | platforms and feudalism
 
 <!--
 humanistic dystopianism…
@@ -319,15 +311,30 @@ tech feudalism and info economics…
 Chad Wellmon, draft essay on history of technical and humanistic education
 -->
 
-Nick Srncek, <a style="color:red">*Platform Capitalism*</a>
+Nick Srnicek, <a style="color:red">*Platform Capitalism,*</a> (Polity, 2016) [[pdf]](https://psu.instructure.com/files/96418245/download?download_frd=1)
 
-Nick Dyer-Witheford, <a style="color:red">*Cyber-Proletariat: Global Labour in the Digital Vortex*</a>
+Joshua A.T. Fairfield, ["The ‘internet of things’ is sending us back to the Middle Ages,"](https://theconversation.com/the-internet-of-things-is-sending-us-back-to-the-middle-ages-81435) *The Conversation,* Sept 5, 2017
 
 <!--
 Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account-on-the-theory-of-platform-capitalism/
 -->
 
+◦ ◦ ◦
+{: style="text-align: center"}
+
+## wk 14 | Dec 3 | presentations
+
 <!--
+
+# the public
+
+Michael Warner, *Publics and Counterpublics* (2002)
+
+Jürgen Habermas, *The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society* (1962/1989)
+
+Benedict Anderson, *Imagined Communities* (1983)
+
+Noortje Marres, “Why We Can’t Have Our Facts Back,” Engaging Science, Technology, and Society 4, no. 0 (July 24, 2018): 423–43.
 
 # democratic history/theory
 
@@ -394,6 +401,8 @@ Andrew Pilsch, *Transhumanism: Evolutionary Futurism and the Human Technologies 
 - Lisa Gitelman, *Always Already New: Media History and the Data of Culture* (2006)
 - Marshall McLuhan, *Understanding Media: The Extensions of Man* (1964)
 - Deleuze postscript on control societies? And a broader theme: how critical theory anticipates, as if SF, future tecchnosocial developments?
+
+Nick Dyer-Witheford, <a style="color:red">*Cyber-Proletariat: Global Labour in the Digital Vortex*</a>
 
 -->
 
