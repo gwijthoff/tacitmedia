@@ -324,6 +324,8 @@ Leif Wetherby’s review https://lareviewofbooks.org/article/delete-your-account
 
 ## wk 14 | Dec 3 | presentations
 
+**Final essays due Monday, December 10**
+
 <!--
 
 # the public
