@@ -150,7 +150,7 @@ Clapperton Chakanetsa Mavhunga, "Introduction," *What Do Science, Technology, an
 
 Jacob Bigelow, *Elements of Technology: Taken Chiefly from a Course of Lectures Delivered at Cambridge on the Application of the Sciences to the Useful Arts* (Hilliard, Gray, Little, and Wilkins, 1829) [[online]](https://archive.org/details/elementsoftechno00jaco)
 
-### further
+### Further
 
 John Durham Peters, "Understanding Media," in *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2015), 13-52. [[pdf]](https://psu.instructure.com/files/93903500/download?download_frd=1)
 
@@ -169,6 +169,12 @@ Luciano Floridi, “Against Digital Ontology,” *Synthese* 168, no. 1 (2009): 1
 
 Friedrich Kittler, “There Is No Software,” in *The Truth of the Technological World: Essays on the Genealogy of Presence* (Stanford University Press, 2013), 219–29. [[pdf]](https://psu.instructure.com/files/93905410/download?download_frd=1)
 
+<div class="ba b--dashed br4 w-85 pa3">
+### Exercises
+
+Install Mozilla's suite of [recommended privacy plugins]([Firefox's recommended privacy extensions](https://blog.mozilla.org/firefox/make-your-firefox-browser-a-privacy-superpower-with-these-extensions/)).
+</div>
+
 ◦ ◦ ◦
 {: style="text-align: center"}
 
@@ -181,7 +187,7 @@ Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus,"
 
 Frank Kessler, "Notes on *Dispositif*" (2007) [[pdf]](https://psu.instructure.com/files/94955355/download?download_frd=1)
 
-### further
+### Further
 
 Kate Crawford and Vladan Joler, “[Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources](https://anatomyof.ai/),” AI Now Institute and Share Lab, September 7, 2018.
 
@@ -207,6 +213,10 @@ Jean Baudrillard, “Requiem for the Media,” in *For a Critique of the Politic
 
 Bertolt Brecht, “Radio as an Apparatus of Communication: A Talk on the Function of Radio,” *Screen* 20, no. 3–4 (December 1979 [1932]): 24–28. [[pdf]](https://psu.instructure.com/files/95314785/download?download_frd=1)
 
+<div class="ba b--dashed br4 w-85 pa3">
+Data Privacy Workshop Series: Kris Unsworth
+</div>
+
 ◦ ◦ ◦
 {: style="text-align: center"}
 
@@ -217,6 +227,13 @@ James Williams, *Stand out of our Light: Freedom and Resistance in the Attention
 Alexandra Schwartz, "[Improving Ourselves to Death](https://www.newyorker.com/magazine/2018/01/15/improving-ourselves-to-death)," *New Yorker,* Jan 15, 2018.
 
 Taina Bucher, "Affective Landscapes: Everyday Encounters with Algorithms," in *If...Then: Algorithmic Power and Politics* (2018), 93-117. [[pdf]](https://psu.instructure.com/files/95577893/download?download_frd=1)
+
+<div class="ba b--dashed br4 w-85 pa3">
+### Exercises
+
+Using the data trails you've left behind, reconstruct the day of October 15, 2015 (three years ago today) as best you can. Search your social media postings, camera roll, calendar, filter Gmail [by date](https://webapps.stackexchange.com/questions/44943/how-can-i-search-for-gmail-messages-on-a-particular-date), and [use mysql](https://apple.stackexchange.com/questions/222836/how-to-seek-to-very-old-text-messages) to access your iMessage archive.
+
+</div>
 
 ### Further
 
@@ -235,6 +252,10 @@ Virginia Eubanks, <a style="color:red">*Automating Inequality: How High-Tech Too
 
 Safiya Umoja Noble, <a style="color:red">*Algorithms of Oppression: How Search Engines Reinforce Racism,*</a> (NYU Press, 2018) [[pdf]](https://psu.instructure.com/files/95767877/download?download_frd=1)
 
+<div class="ba b--dashed br4 w-85 pa3">
+Data Privacy Workshop Series: Hannah Sassaman
+</div>
+
 ◦ ◦ ◦
 {: style="text-align: center"}
 
@@ -251,11 +272,17 @@ James J. Gibson, “The Theory of Affordances,” in *Perceiving, Acting, and Kn
 
 B.P. Bloomfield, Y. Latham, and T. Vurdubakis, “Bodies, Technologies and Action Possibilities: When Is an Affordance?,” *Sociology* 44, no. 3 (June 18, 2010): 415–33. [[pdf]](https://psu.instructure.com/files/95960383/download?download_frd=1)
 
-### further
+### Further
 
 Jenny L. Davis and James B. Chouinard, “Theorizing Affordances: From Request to Refuse,” *Bulletin of Science, Technology & Society,* June 2017
 
 Ian Hutchby, “Technologies, Texts and Affordances,” *Sociology* 35, no. 2 (May 1, 2001): 441–56. See also Brian Rappert's reply and Hutchby's response in v. 37, n. 3.
+
+<div class="ba b--dashed br4 w-85 pa3">
+### Exercises
+
+Install the ["People You May Know Inspector"](https://gizmodo.com/keep-track-of-who-facebook-thinks-you-know-with-this-ni-1819422352) to keep track of how Facebook recommends "friendships" across your extended social networks, and read up on its [unsuccessful attempts](https://gizmodo.com/facebook-wanted-us-to-kill-this-investigative-tool-1826620111) to kill this and other tools developed by journalists to investigate the platform.
+</div>
 
 ◦ ◦ ◦
 {: style="text-align: center"}
@@ -275,6 +302,10 @@ Sarah Jeong, ["You Can't Escape Data Surveillance In America,"](https://www.thea
 
 Woodrow Hartzog, *Privacy’s Blueprint: The Battle to Control the Design of New Technologies* (2018)
 
+<div class="ba b--dashed br4 w-85 pa3">
+Digital Privacy Workshop Series: Jessa Lingel
+</div>
+
 <!--
 Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy-cultures/?utm_content=buffer38653&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 -->
@@ -289,6 +320,10 @@ Palmer Rampell, ["Privacy Cultures" [review]](http://www.publicbooks.org/privacy
 Fred Turner, <a style="color:red">*From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism*</a> (University of Chicago Press, 2006), Intro, Ch. 2 and 3 [[pdf]](https://psu.instructure.com/files/96341537/download?download_frd=1)
 
 Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women who Made the Internet,*</a> (Penguin Random House, 2018) Intro, Ch. 7 and 8 [[pdf]](https://psu.instructure.com/files/96341947/download?download_frd=1)
+
+<div class="ba b--dashed br4 w-85 pa3">
+Phone call with Gerd Stern on the history of USCO and 1960s media art collectives.
+</div>
 
 <!--
 Richard Barbrook and Andy Cameron, “The Californian Ideology,” Science As Culture 6 (January 1, 1996): 44–72.

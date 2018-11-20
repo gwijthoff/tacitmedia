@@ -10,7 +10,7 @@ author: |
     \(<gxw63@psu.edu>\)\
     Office Hours by appointment\
      \
-    Course site:\
+    Resources and tutorials at course site:\
     <https://gwijthoff.github.io/tacitmedia>
 ---
 
