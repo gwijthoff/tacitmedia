@@ -19,6 +19,8 @@ title: Resources
 
 - See also [The Internet of Ownership](https://ioo.coop/about/)
 
+[Data for Black Lives](https://towardsdatascience.com/data-for-black-lives-the-inaugural-conference-at-mit-b48599a248a), conference at MIT, November 2018
+
 [Ethical OS Toolkit](https://ethicalos.org/), for "anticipate the long-term social impact and unexpected uses of the tech we create today." Designed by the Institute for the Future
 
 [Digital Ethereal](http://www.digitalethereal.com/), long exposure photography by designer Luis Hernan that captures invisible WiFi signals.
@@ -47,4 +49,8 @@ title: Resources
 
 ## Resources
 
-[Firefox's recommended privacy extensions](https://blog.mozilla.org/firefox/make-your-firefox-browser-a-privacy-superpower-with-these-extensions/)
+[Emerging Technology and Ethics Research Guide](https://danyaglabau.com/2018/11/05/emerging-technology-and-ethics-research-guide-v-1-0/), Danya Glabau
+
+[Mozilla's recommended privacy extensions](https://blog.mozilla.org/firefox/make-your-firefox-browser-a-privacy-superpower-with-these-extensions/)
+
+[Open Transcrips](http://opentranscripts.org/), open access transcripts of talks and lectures from arts, design, philosophy, and STS conferences and venues
