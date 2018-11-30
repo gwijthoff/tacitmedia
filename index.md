@@ -323,6 +323,8 @@ Claire L. Evans, <a style="color:red">*Broad Band: The Untold Story of the Women
 
 <div class="ba b--dashed br4 w-85 pa3">
 Phone call with Gerd Stern on the history of USCO and 1960s media art collectives.
+
+[Scan of notes and quotes binder](https://psu.instructure.com/files/96860830/download?download_frd=1) made by class for Aaron and Camila's presentation
 </div>
 
 <!--
